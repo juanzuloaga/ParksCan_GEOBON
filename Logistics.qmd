@@ -1,0 +1,87 @@
+---
+title: "Logistics"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+# Partners
+
+We have identified three operational partners:
+
+-   **GEOBON-International experts**. This group will present what models and tools are available in the GEO BON community to measure, assess and monitor co-benefits of ecosystem services derived from carbon storage and biodiversity.
+
+-   **Regional experts.** This group will provide an evaluation whether:
+
+    -   models and tools presented are feasible to apply in this region
+
+    -   data currently available are enough for applying proposed models and tools
+
+-   **Implementers/users**: PC, ECCC, Indigenous partners, Provincial (MB, ON, QC). This group will respond among others these questions:
+
+    -   How can we implement, use proposed models and tools?
+
+    -   What are the pros, cons, trade-offs and assumptions.
+
+    -   What can be done now (tactical) and in the future?
+
+    -   How can we inform conservation decisions based on the best available data?
+
+![](Figures/Partners.png)
+
+# Workshop
+
+We will held a workshop with all partners.
+
+-   **Date**: October 16 and 17, 2023 (Monday and Tuesday)
+
+-   **Place and venue**: Montreal (venue TBD)
+
+# Potential Invitees
+
+::: panel-tabset
+## Facilitator
+
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+| **Name**      | **Description**                                                                                                                                                        | **Contact (email) - coming from** |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+| **(TBD)** ??? | A person with the ability to operationalize, coordinate and maintain an effective and productive dialog among partners from different expertises and knowledge systems |                                   |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+
+## GEO BON
+
+### **Planning**
+
++-----------------------+---------------------+------------------+----------------------------------------------------------------------+
+| **Name**              | **Expertise**       | **Organization** | **Contact (email) - coming from**                                    |
++-----------------------+---------------------+------------------+----------------------------------------------------------------------+
+| Andrew Gonzalez       |                     | McGill - GEOBON  | Montreal                                                             |
++-----------------------+---------------------+------------------+----------------------------------------------------------------------+
+| Maria Cecilia Londoño |                     | IAvH  - GEOBON   | She will be in Montreal for the conference                           |
++-----------------------+---------------------+------------------+----------------------------------------------------------------------+
+| Adriana Radulovici    | Administrative      | GEOBON           | [adriana.radulovici\@mcgill.ca](mailto:adriana.radulovici@mcgill.ca) |
+|                       |                     |                  |                                                                      |
+|                       |                     |                  | Montreal                                                             |
++-----------------------+---------------------+------------------+----------------------------------------------------------------------+
+| Juan Zuloaga          | Science coordinator | McGill           | [jzuloaga\@gmail.com](mailto:jzuloaga@gmail.com) - Calgary           |
++-----------------------+---------------------+------------------+----------------------------------------------------------------------+
+
+## Supporting team
+
+|                                                     |                                         |                                                                                |
+|-----------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------|
+| **Name**                                            | **Expertise - Organization**            | **Contact (email) - coming from**                                              |
+| Jean-Michel Lord                                    | Software developer - McGill             | Montreal                                                                       |
+| Wenyuan Zhang                                       | Ecosystem services -McGill              | Montreal                                                                       |
+| Flavio Affinito                                     | Ecosystem services -McGill              | Montreal                                                                       |
+| [Amanda Schwantes ](https://aschwantes.weebly.com/) | Ecosystem services - U fo T             | [amanda.schwantes\@utoronto.ca](mailto:amanda.schwantes@utoronto.ca) - Toronto |
+| Ágnes Vári                                          | Ecosystem services, Indicators - McGill | Montreal                                                                       |
+
+## Regional experts
+
+## Implementers
+:::

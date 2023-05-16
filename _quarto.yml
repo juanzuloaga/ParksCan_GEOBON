@@ -1,0 +1,57 @@
+project:
+  type: website
+  pre-render:
+    - glossary.R
+    - mapsR.R
+  
+website:
+  page-navigation: true
+  title: "ParksCan_GEOBON"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - sidebar:Logistics
+      - sidebar:GEOBON_Framework
+      - sidebar:study_area
+      - sidebar:Methods_and_tools
+
+  sidebar:
+    - id: Logistics
+      title: "Logistics"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents:
+        - Logistics.qmd
+    - id: GEOBON_Framework
+      title: "GEOBON"
+      contents: 
+        - GEOBON_Framework.qmd
+    - id: study_area
+      title: "Study area"
+      contents: 
+        - study_area.qmd
+    - id: Methods_and_tools
+      title: "Methods and tools"
+      contents:
+        - Methods_and_tools
+        - genetic_composition.qmd
+        - Carbon_storage.qmd
+        - ecosystem_services.qmd
+
+   
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    page-layout: article
+  #  toc: false
+    
+
+
+#editor: visual
+
+ 
