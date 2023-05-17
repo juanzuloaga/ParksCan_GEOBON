@@ -2,7 +2,7 @@
 title: "Ecosystem services"
 format:
   html:
-   # self-contained: true
+    self-contained: true
     link-external-icon: true
     link-external-newwindow: true
 toc: true

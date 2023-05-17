@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   pre-render:
     - glossary.R
     - mapsR.R
