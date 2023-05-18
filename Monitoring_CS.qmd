@@ -15,4 +15,4 @@ editor: visual
 
 # Indicators
 
-# Spatial prioritization
+# 

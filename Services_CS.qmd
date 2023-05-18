@@ -30,3 +30,5 @@ Supporting (biodiversity, food security, etc..)
 Figure from [Harris et al (2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437)
 
 ![](https://esajournals.onlinelibrary.wiley.com/cms/asset/a7443d08-af16-44f4-84d0-e0697ed5f945/fee2437-fig-0002-m.jpg)
+
+## Spatial prioritization

@@ -5,8 +5,8 @@ format:
     self-contained: true
     link-external-icon: true
     link-external-newwindow: true
-editor: visual
 toc: true
+editor: visual
 ---
 
 We summarized a preliminary review of frameworks that have been proposed to protect biodiversity, manage ecosystem services, and inform decision makers and global, national and regional policy to address biodiversity loss and the erosion of ecosystem services.
