@@ -1,0 +1,32 @@
+---
+title: "Ecosystem services"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+**in progress......**
+
+## Introduction
+
+## **Type of services**
+
+Regulating services (climate regulation, water regulation, etc.)
+
+Cultural services (recreational, spiritual, etc)
+
+Supporting (biodiversity, food security, etc..)
+
+## Threats
+
+## **Peatlands**
+
+## **Canada**
+
+Figure from [Harris et al (2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437)
+
+![](https://esajournals.onlinelibrary.wiley.com/cms/asset/a7443d08-af16-44f4-84d0-e0697ed5f945/fee2437-fig-0002-m.jpg)

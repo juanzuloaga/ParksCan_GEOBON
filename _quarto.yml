@@ -15,33 +15,45 @@ website:
       - text: "Home"
         file: index.qmd
       - sidebar:Logistics
-      - sidebar:GEOBON_Framework
+      - sidebar:frameworks
       - sidebar:study_area
-      - sidebar:Methods_and_tools
+      - sidebar:Carbon_storage
+      - sidebar:Freshwater_fisheries
 
   sidebar:
     - id: Logistics
       title: "Logistics"
       style: "docked"
       background: light
-      collapse-level: 2
+      collapse-level: 3
       contents:
         - Logistics.qmd
-    - id: GEOBON_Framework
-      title: "GEOBON"
-      contents: 
+    - id: frameworks
+      title: "Frameworks"
+      contents:
+        - frameworks.qmd
+        - ecosystem_services.qmd
+        - biodiversity.qmd
+        - dual_frameworks.qmd
         - GEOBON_Framework.qmd
+        - essential_variables.qmd
+        - indicators.qmd
     - id: study_area
       title: "Study area"
       contents: 
         - study_area.qmd
-    - id: Methods_and_tools
-      title: "Methods and tools"
+    - id: Carbon_storage
+      title: "Carbon storage"
       contents:
-        - Methods_and_tools
-        - genetic_composition.qmd
         - Carbon_storage.qmd
-        - ecosystem_services.qmd
+        - Quantifying_CS.qmd
+        - Services_CS.qmd
+        - Case_studies_CS.qmd
+        - Monitoring_CS.qmd
+    - id: Freshwater_fisheries
+      title: "Freshwater fisheries"
+      contents:
+        - Freshwater_fisheries.qmd
 
    
 format:

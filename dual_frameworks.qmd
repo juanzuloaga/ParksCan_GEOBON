@@ -1,0 +1,14 @@
+---
+title: "Dual frameworks"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+Dual framework have been proposed to prevent simultaneously overarching threats , for instance biodiversity loss and carbon losses or climate change.
+
+**In progress....**

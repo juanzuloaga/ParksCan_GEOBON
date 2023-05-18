@@ -6,12 +6,13 @@ format:
     link-external-icon: true
     link-external-newwindow: true
 toc: true
+date-modified: last-modified
 editor: visual
 ---
 
 # Presentation
 
-We organized this interactive document to provide a preliminary context of this initiative and facilitate the communication among all partners. It will be updated regularly as we get more information and feedback. the basis of the white paper.
+We organized this document to provide a preliminary context of this initiative and facilitate the communication among all partners. It will be updated regularly as we get more information and feedback. It will be also the basis of a white paper.
 
 # Introduction
 
@@ -57,8 +58,23 @@ There is also a need to consider how Traditional Knowledge can weave appropriate
 
 -   Develop and deliver a discussion paper based on stocktaking exercise, case study analysis, and the outcome of the workshop with recommendations on appropriate tools and models, including the weaving of Traditional Knowledge into these that could be applied in the Hudson Bay-James Bay Lowlands and other landscapes across Canada.
 
-\
+###  Scope and expectations
 
- 
+**Parks Canada** is interested in compiling frameworks, methods, tools and case studies taking into account these criteria:
+
+-   **Ecosystem services**: there are some preliminary priorities to explore within the wide range of ecological services :
+    -   **Carbon storage**: HJBL harbor one of the most important peatland ecosystem in the world
+    -   **Food security**: there are some traditional food priorities for indigenous and local communities to explore: freshwater fisheries, berries and geese.
+-   **Biodiversity**: explore different levels of biodiversity (from species to ecosystems)
+-   **Spatially-explicit, and scale-appropriate** models and tools
+-   **Integrate multiple knowledge systems**
+-   **Expectations**
+    -   support active management
+    -   protect species and landscapes
+    -   develop good practices for biodiversity conservation and ecosystem services management
+    -   Inform decision and policy makers
+    -   Identify actions that can be implemented now (tactical) and others in the future
+
+**GEO BON** is interested in developing a **regional BON**, that is an opportunity to implement its approach in a case study for Canada. A regional BON is a network of scientists (international/national/regional), government agencies, Indigenous organizations and conservation groups working together to harmonize and integrate efforts to **measure, assess and monitor biodiversity and ecosystem services** in the HJBL.
 
 \

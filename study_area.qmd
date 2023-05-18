@@ -20,7 +20,7 @@ source("mapsR.R")
 
 ```
 
-The interactive map below some of the most important features:
+The interactive map below some important thematic layers:
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 
@@ -165,7 +165,7 @@ area_map = area_map  %>%
 area_map
 ```
 
-Selected features fro these sources:
+Selected features from these sources:
 
 -   Canada boundaries: [open.canada.ca](https://open.canada.ca/data/en/dataset/85efc01b-163f-ebba-2378-c43eadfb3b3f/resource/15f721b1-ed0f-4883-80c3-8e3d9bec20d6?inner_span=True)
 
