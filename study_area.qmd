@@ -25,7 +25,7 @@ The interactive map below some important thematic layers:
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 
 
-library(shiny)
+#library(shiny)
 library(magrittr)
 library(leaflet)
 

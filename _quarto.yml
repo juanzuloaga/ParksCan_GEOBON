@@ -61,10 +61,10 @@ format:
     theme: cosmo
     css: styles.css
     page-layout: article
-  #  toc: false
+    toc: false
     
 
 
-#editor: visual
+editor: visual
 
  

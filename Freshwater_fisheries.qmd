@@ -5,8 +5,8 @@ format:
     self-contained: true
     link-external-icon: true
     link-external-newwindow: true
-editor: visual
 toc: true
+editor: visual
 ---
 
 **in progress....**
