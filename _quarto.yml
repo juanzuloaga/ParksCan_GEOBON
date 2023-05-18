@@ -25,7 +25,7 @@ website:
       title: "Logistics"
       style: "docked"
       background: light
-      collapse-level: 3
+      collapse-level: 5
       contents:
         - Logistics.qmd
     - id: frameworks
