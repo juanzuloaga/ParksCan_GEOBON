@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
   pre-render:
-    - glossary.R
     - mapsR.R
   
 website:
@@ -25,9 +24,10 @@ website:
       title: "Logistics"
       style: "docked"
       background: light
-      collapse-level: 5
+      collapse-level: 2
       contents:
         - Logistics.qmd
+        
     - id: frameworks
       title: "Frameworks"
       contents:
@@ -38,10 +38,12 @@ website:
         - GEOBON_Framework.qmd
         - essential_variables.qmd
         - indicators.qmd
+        
     - id: study_area
       title: "Study area"
       contents: 
         - study_area.qmd
+        
     - id: Carbon_storage
       title: "Carbon storage"
       contents:
@@ -50,6 +52,7 @@ website:
         - Services_CS.qmd
         - Case_studies_CS.qmd
         - Monitoring_CS.qmd
+        
     - id: Freshwater_fisheries
       title: "Freshwater fisheries"
       contents:

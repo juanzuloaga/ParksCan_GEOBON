@@ -43,6 +43,12 @@ These six classes aim to holistically capture the complexity of an ecosystem ser
 
 # European Union's assessment of ecosystems and their services
 
+The European Union's Mapping and Assessment of Ecosystems and their Services (MAES) is a project aimed at assessing the ecosystems of all member states of the European Union for the EU Biodiversity Strategy 2020. Its recent completion provides baseline information on the status of European ecosystems to support policy decisions and evaluations of impact over the next decade. The work was done following a precise framework to ensure consistent reporting and methods across the continent.
+
+This framework is framed around important policy questions and explicitly links societal needs to the environment (Figure 3; [Maes et al., 2016](https://www.sciencedirect.com/science/article/pii/S2212041615300504)). It was implemented across the continent through engagement with stakeholders working at different scales and governance levels using the international classification of ecosystem services ([Haines-Young & Potschin, 2012](https://cices.eu/content/uploads/sites/8/2012/09/CICES-V4_Final_26092012.pdf)). The assessment focused on all types of ecosystems, including marine regions. Each ecosystem type was first assessed individually (eg: forests, wetlands, marine ecosystems, ...), followed by an integrative assessment to identify overlap and common policy concerns. Important policy concerns were then used to frame the assessment of pressures on ecosystems and estimate their condition.
+
+Some key results of this assessment include the unfavourable state of legally protected areas in Europe, the risk of pressures acting in synergy to worsen their impact and an overall decline in the ability of ecosystems to provide services, including timber, crop pollination, recreation and flood protection. This assessment further highlights the gaps in knowledge and the need for increased monitoring efforts in the region.
+
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S2212041615300504-gr1_lrg.jpg)
 
 **Figure 3**. The conceptual framework for EU and national assessments of the EU Biodiversity Strategy (from [Maes *et al.*, 2016](https://www.sciencedirect.com/science/article/pii/S2212041615300504)).
