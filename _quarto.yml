@@ -15,7 +15,7 @@ website:
         file: index.qmd
       - sidebar:Logistics
       - sidebar:frameworks
-      - sidebar:study_area
+      - sidebar:biodiversity
       - sidebar:Carbon_storage
       - sidebar:traditional_food_security
 
@@ -39,10 +39,10 @@ website:
         - essential_variables.qmd
         - indicators.qmd
         
-    - id: study_area
-      title: "Study area"
+    - id: biodiversity
+      title: "Biodiversity"
       contents: 
-        - study_area.qmd
+        - biodiversity.qmd
         
     - id: Carbon_storage
       title: "Carbon storage"

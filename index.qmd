@@ -1,5 +1,5 @@
 ---
-title: "Integrating multiple knowledge systems in the application of relevant tools and models for the conservation of biodiversity and carbon-rich ecosystems in the Hudson-James Bay Lowlands"
+title: "Integrating multiple knowledge systems in the application of relevant tools and models for the conservation of biodiversity, carbon storage services and traditional food security in the Hudson-James Bay Lowlands"
 format:
   html:
     self-contained: true
@@ -16,11 +16,177 @@ We organized this document to provide a preliminary context of this initiative a
 
 # Introduction
 
-This initiative aims to **improve knowledge and application of tools, approaches, and models** that are appropriate at a Canadian scale for looking at how to address the dual **conservation of biodiversity and ecosystem carbon storage** to support the establishment and active management and restoration of protected and conserved areas.
+This initiative aims to **improve knowledge and application of tools, approaches, and models** that are appropriate at a Canadian scale for looking at how to address challenges, such as **conservation of biodiversity, carbon storage and traditional food security** to support the establishment and active management and restoration of protected and conserved areas in the **Hudson--James Bay Lowlands (HJBL).**
 
 Tools and approaches have been developed and applied in many countries and have been analyzed through several large processes (e.g., [Methodological Assessment Report on Scenarios and Models of Biodiversity and Ecosystem Services (IPBES 2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and)), yet their application has been limited in Canada. As Parks Canada develops new approaches for establishing new protected and conserved areas and enhances active management and restoration efforts to better address the dual crises of biodiversity conservation and climate change, there is a need to explore how to refine and apply these tools and models to ecosystems across Canada.
 
 In this initiative, Parks Canada is asking GEO BON international community **WHAT frameworks, models and tools HAVE WORKED** in terms of [informing decision making and policy to protect, manage and monitor]{.underline} *biodiversity, ecosystem services (i.e., carbon storage) and traditional food security*. Moreover, **WHAT DOES NOT WORK and WHY?**
+
+# Area of interest
+
+The Hudson-James Bay lowlands (HJBL) is located in the Mushkegowuk territory including various First nation communities: Attawapiskat First Nation, Taykwa Tagamou Nation, Kashechewan First Nation, Fort Albany First Nation, Moose Cree First Nation, Chapleau Cree First Nation, Missanabie Cree First Nation, and Weenusk First Nation (see [Mushkegouk Council](https://mushkegowuk.ca/https://mushkegowuk.ca/)). It is located in northeast Canada, known also as the[Hudson Bay Plains ecozone](http://www.ecozones.ca/english/zone/index.html) in the provinces on Ontario, Manitoba and Quebec.
+
+```{r, echo = FALSE, warning=FALSE, message=FALSE, include = FALSE}
+
+source("mapsR.R")
+
+
+```
+
+The interactive map below some important thematic layers:
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+
+#library(shiny)
+library(magrittr)
+library(leaflet)
+
+
+area_map=leaflet() %>%
+           setView(lng = -91, lat = 60, zoom = 3)%>%
+   
+  addScaleBar(position = 'bottomleft') %>%
+  
+# Background World map
+  addProviderTiles("Esri.WorldImagery",'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}') %>%
+
+# Canada
+  addPolygons(data =  Canada$geometry,
+              weight =  2,
+              color = "grey",
+              label = Canada$juri_en,
+              group = "Canada"
+            #   highlightOptions = highlightOptions(
+             #   weight = 1,
+             #   bringToFront = T,
+             #   color = "grey",
+            #    fillOpacity = 0.1)
+              )%>%
+
+# Study area
+  addPolygons(data=study_area,
+              weight=3,
+              color =  "white",
+              fillColor = "white",
+              fillOpacity =  0.01,
+              label=study_area$ECOZONE_NAME_EN,
+              group = "Study_area",
+              highlightOptions = highlightOptions(
+                weight = 1,
+                bringToFront = T,
+                color = "white",
+                fillOpacity = 0.1))%>%
+  
+# Treaties
+ # addPolygons(data=treaties,
+    #          weight=0.4,
+     #         fillColor = rev(topo.colors(n=length(treaties$Name))),
+     #         color = "white",
+     #         label = treaties$Name,
+      #        group = "Treaties",
+      #        fillOpacity = 0.1,
+      #        highlightOptions = highlightOptions(
+       #         weight = 5,
+       #         color = "white",
+        #        fillOpacity = 0.3))%>%
+  
+# Territories
+  addPolygons(data=territories_area,
+              weight=0.4,
+              fillColor = topo.colors(n=length(territories_area$Name)),
+              color =  "white",
+              label =  territories_area$Name,
+              group = "Territories",
+              fillOpacity = 0.1,
+              highlightOptions = highlightOptions(
+                weight = 5,
+                color = "white",
+                fillOpacity = 0.3))%>%
+ 
+# Ecozones
+ # addPolygons(data=ecozones_can,
+    #          weight=3,
+   #           color =  rainbow(n=length(ecozones_can$ECOZONE_NAME_EN)),
+    #          label=ecozones_can$ECOZONE_NAME_EN,
+    #          group = "Ecozones")%>%
+
+# Municipalities
+  addCircleMarkers(st_coordinates(municipalities_area)[,1],
+                        st_coordinates(municipalities_area)[,2],
+                         fillColor="white",
+                         fillOpacity = 0.8,
+                         weight=1,
+                         label = municipalities_area$GEONAME,
+                         group= "Municipalities",
+                         radius = 4)%>%
+  
+# Protected_Areas
+  addPolygons(data=protected_areas,
+               weight=1.3,
+               color = "#CCCC00",
+               fillColor = "#CCCC00",
+               label=protected_areas$NAME,
+               group = "Protected_Areas",
+               fillOpacity = 0.01,
+               highlightOptions = highlightOptions(
+                  weight = 0.1,
+                  color = "white",
+                  fillColor = rainbow(length(protected_areas$NAME)),
+                  fillOpacity = 0.3)
+  )
+  
+  
+
+
+  
+ 
+area_map = area_map  %>%
+   
+# ADDING TOOLS -------------
+    
+  # add a map scalebar
+    addScaleBar(position = 'bottomleft') %>%
+              
+  # add measurement tool
+    addMeasure(primaryLengthUnit = "kilometers",
+               secondaryLengthUnit = 'miles',
+               primaryAreaUnit = "hectares",
+               secondaryAreaUnit="acres",
+               position = 'topleft') 
+
+  area_map = area_map %>%
+    
+  # Adding layer control
+          addLayersControl(options = layersControlOptions(collapsed = T),
+                             position ="topleft",
+                           baseGroups = "Canada",
+                             overlayGroups = c( "Protected_Areas",
+                                               "Municipalities",
+                                               # "Ecozones",
+                                                "Territories",
+                                              #  "Treaties",
+                                                 "Study_area")) %>%
+            hideGroup(c(#"Ecozones",
+                       # "Treaties",
+                        "Municipalities",
+                        "Protected_Areas",
+                        "Territories")
+                    )
+          
+
+area_map
+```
+
+Selected features from these sources:
+
+Canada boundaries: [open.canada.ca](https://open.canada.ca/data/en/dataset/85efc01b-163f-ebba-2378-c43eadfb3b3f/resource/15f721b1-ed0f-4883-80c3-8e3d9bec20d6?inner_span=True)
+
+Treaties and territories: [Native Land Digital](https://native-land.ca/)
+
+Ecozones (study area): [National Ecological Framework](https://agriculture.canada.ca/atlas/data_donnees/nationalEcologicalFramework/data_donnees/)
+
+Protected areas (raw data): [World Database on Protected Areas (WDPA)](https://www.protectedplanet.net/en), downloading data using R interface [wdpar](https://cran.r-project.org/web/packages/wdpar/index.html).
 
 # Background
 
