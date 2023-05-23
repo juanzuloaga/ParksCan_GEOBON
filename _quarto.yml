@@ -17,7 +17,7 @@ website:
       - sidebar:frameworks
       - sidebar:study_area
       - sidebar:Carbon_storage
-      - sidebar:Freshwater_fisheries
+      - sidebar:traditional_food_security
 
   sidebar:
     - id: Logistics
@@ -53,9 +53,10 @@ website:
         - Case_studies_CS.qmd
         - Monitoring_CS.qmd
         
-    - id: Freshwater_fisheries
+    - id: traditional_food_security
       title: "Freshwater fisheries"
       contents:
+        - traditional_food_security.qmd
         - Freshwater_fisheries.qmd
 
    
