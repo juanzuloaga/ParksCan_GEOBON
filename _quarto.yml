@@ -54,7 +54,7 @@ website:
         - Monitoring_CS.qmd
         
     - id: traditional_food_security
-      title: "Freshwater fisheries"
+      title: "Traditional food security"
       contents:
         - traditional_food_security.qmd
         - Freshwater_fisheries.qmd
