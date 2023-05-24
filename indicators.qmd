@@ -13,6 +13,8 @@ GEO BON with its scientific partners introduced in 2015 a new generation of glob
 
 For the ecosystem services component we rely on a recent publication from the Ecosystem Services team (see [Balvanera et al 2022](https://www.sciencedirect.com/science/article/pii/S1877343522000045?fr=RR-2&ref=pdf_download&rr=7c54f0ee4f89c3a5)).
 
+**In progress...**
+
 ::: panel-tabset
 ## Biodiversity indicators
 

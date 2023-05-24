@@ -16,11 +16,11 @@ We organized this document to provide a preliminary context of this initiative a
 
 # Introduction
 
-This initiative aims to **improve knowledge and application of tools, approaches, and models** that are appropriate at a Canadian scale for looking at how to address challenges, such as **conservation of biodiversity, carbon storage and traditional food security** to support the establishment and active management and restoration of protected and conserved areas in the **Hudson--James Bay Lowlands (HJBL).**
+This initiative aims to **improve knowledge and application of tools, approaches, and models** that are appropriate at a Canadian scale for looking at how to address challenges such as **conservation of biodiversity, carbon storage and traditional food security** to support the establishment, active management and restoration of protected and conserved areas in the **Hudson--James Bay Lowlands (HJBL).**
 
 Tools and approaches have been developed and applied in many countries and have been analyzed through several large processes (e.g., [Methodological Assessment Report on Scenarios and Models of Biodiversity and Ecosystem Services (IPBES 2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and)), yet their application has been limited in Canada. As Parks Canada develops new approaches for establishing new protected and conserved areas and enhances active management and restoration efforts to better address the dual crises of biodiversity conservation and climate change, there is a need to explore how to refine and apply these tools and models to ecosystems across Canada.
 
-In this initiative, Parks Canada is asking GEO BON international community **WHAT frameworks, models and tools HAVE WORKED** in terms of [informing decision making and policy to protect, manage and monitor]{.underline} *biodiversity, ecosystem services (i.e., carbon storage) and traditional food security*. Moreover, **WHAT DOES NOT WORK and WHY?**
+In this initiative, Parks Canada is asking GEO BON international community **WHAT frameworks, models and tools HAVE SUCCESSFULLY WORKED** in terms of [informing decision making and policy to protect, manage and monitor]{.underline} *biodiversity, ecosystem services (i.e., carbon storage) and traditional food security*. Moreover, **WHAT DOES NOT WORK and WHY?**
 
 # Area of interest
 
@@ -243,6 +243,6 @@ There is also a need to consider how Traditional Knowledge can weave appropriate
     -   Inform decision and policy makers
     -   Identify actions that can be implemented now (tactical) and others in the future
 
-**GEO BON** is interested in developing a **subnational BON**, which is is a network of scientists (international/national/regional), government agencies, Indigenous organizations and conservation groups working together to harmonize and integrate efforts to **measure, assess and monitor biodiversity and ecosystem services.** Parks Canada initiative in the Hudson-James Bay region is an excellent opportunity to start implementing the process for BON development, in particular the engagement phase. See BON development Figure from [Navarro et al (2017)](https://www.sciencedirect.com/science/article/pii/S1877343517301665#fig0020).
+**GEO BON** is interested in developing a **subnational BON**, which is is a network of scientists (international/national/regional), government agencies, Indigenous organizations and conservation groups working together to harmonize and integrate efforts to **measure, assess and monitor biodiversity and ecosystem services.** Parks Canada initiative in the Hudson-James Bay region is an excellent opportunity to start implementing the process for BON development, in particular the **engagement phase**. See BON development Figure from [Navarro et al (2017)](https://www.sciencedirect.com/science/article/pii/S1877343517301665#fig0020).
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S1877343517301665-gr4.jpg)\

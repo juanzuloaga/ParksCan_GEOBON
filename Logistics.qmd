@@ -13,13 +13,13 @@ editor: visual
 
 We have identified three operational partners:
 
--   **GEOBON-International experts**. This group will present what models and tools are available in the GEO BON community to measure, assess and monitor co-benefits of ecosystem services derived from carbon storage and biodiversity.
+-   **GEOBON-International experts**. This group will present which models and tools are available within the GEO BON international community aimed to measure, assess and monitor co-benefits of ecosystem services derived from carbon storage and biodiversity.
 
 -   **Regional experts.** This group will provide an evaluation whether:
 
-    -   models and tools presented are feasible to apply in this region
+    -   are these models and tools presented feasible to apply in this region?
 
-    -   data currently available are enough for applying proposed models and tools
+    -   are data sets currently available are enough for applying proposed models and tools?
 
 -   **Implementers/users**: PC, ECCC, Indigenous partners, Provincial (MB, ON, QC). This group will respond among others these questions:
 
@@ -43,13 +43,16 @@ We will held a workshop with all partners.
 
 # Potential Invitees
 
+**In progress.......**
+
 ::: panel-tabset
 ## Facilitator
 
-|               |                                                                                                                                                                       |                                   |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
 | **Name**      | **Description**                                                                                                                                                       | **Contact (email) - coming from** |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
 | **(TBD)** ??? | A person with the ability to operationalize, coordinate and maintain an effective and productive dialog among partners with different expertise and knowledge systems |                                   |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
 
 ## GEO BON
 
@@ -71,14 +74,19 @@ We will held a workshop with all partners.
 
 ### Supporting team
 
-|                                                     |                                         |                                                                                |
-|-----------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------|
++-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | **Name**                                            | **Expertise - Organization**            | **Contact (email) - coming from**                                              |
++-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | Jean-Michel Lord                                    | Software developer - McGill             | Montreal                                                                       |
++-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | Wenyuan Zhang                                       | Ecosystem services -McGill              | Montreal                                                                       |
++-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | Flavio Affinito                                     | Ecosystem services -McGill              | Montreal                                                                       |
++-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | [Amanda Schwantes ](https://aschwantes.weebly.com/) | Ecosystem services - U fo T             | [amanda.schwantes\@utoronto.ca](mailto:amanda.schwantes@utoronto.ca) - Toronto |
++-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | Ágnes Vári                                          | Ecosystem services, Indicators - McGill | Montreal                                                                       |
++-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 
 ## Regional experts
 
