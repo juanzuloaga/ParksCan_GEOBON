@@ -64,7 +64,8 @@ website:
         
     - id: spatial_prioritization
       title: "Spatial prioritization"
-      contents: spatial_prioritization.qmd
+      contents:
+        - spatial_prioritization.qmd
 
    
 format:
