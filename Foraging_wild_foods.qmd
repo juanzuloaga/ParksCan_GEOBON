@@ -1,0 +1,20 @@
+---
+title: "Foraging wild foods"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+editor: visual
+toc: true
+---
+
+**In progress....**
+
+# Introduction
+
+# Case studies
+
+Regulating Wild Edible Plants for Household Food Security in Sub-Saharan Africa
+
+# Monitoring

@@ -11,7 +11,7 @@ editor: visual
 
 # Presentation
 
-Ecosystem services assessments rely on a range of methods and frameworks that can be used and adapted in the case of the Hudson Bay Lowlands. We discuss the two frameworks (**SEEA** and **EEBVs**) recommended by the United Nations Convention on Biological Diversity's (UN CBD) Global Biodiversity Framework ([UN CBD, 2022](https://www.unep.org/resources/kunming-montreal-global-biodiversity-framework)) and the work done by the European Union's assessment of ecosystems and their services.
+Ecosystem services assessments rely on a range of methods and frameworks that can be used and adapted in the case of the Hudson Bay Lowlands. We discuss the two frameworks recommended by the United Nations Convention on Biological Diversity's (UN CBD) Global Biodiversity Framework ([UN CBD, 2022](https://www.unep.org/resources/kunming-montreal-global-biodiversity-framework)): The System of Environmental Economic Accounting (SEEA) and The Essential Ecosystem Services Variables (EEBVs); and the work done by the European Union's assessment of ecosystems and their services.
 
 # UN CBD Global Biodiversity Framework
 

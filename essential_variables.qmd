@@ -9,14 +9,14 @@ toc: true
 editor: visual
 ---
 
-"All essential variables represent a minimum collection of data or measurements that capture a specific dimension of the phenomena of interest and are critical for detecting change acrossspace and time \[13,16\]. Essential variables are therefore located at the interface between data (primary observations), indicators (synthetic or derived metrics), and user-specific societal or policy goals (e.g. Sustainable Development Goals)." ([Balvanera et al 2022](https://www.sciencedirect.com/science/article/abs/pii/S1877343522000045)).
+"All essential variables represent a minimum collection of data or measurements that capture a specific dimension of the phenomena of interest and are critical for detecting change across space and time \[13,16\]. Essential variables are therefore located at the interface between data (primary observations), indicators (synthetic or derived metrics), and user-specific societal or policy goals (e.g. Sustainable Development Goals)." ([Balvanera et al 2022](https://www.sciencedirect.com/science/article/abs/pii/S1877343522000045)).
 
 Two main groups of essential variables have been defined: **Essential Biodiversity Variables** (**EBVs**) and **Essential Ecosystem Services Variables** (**EESVs**).
 
 **In progress.....**
 
 ::: panel-tabset
-## Essential Biodiversity Variables **EBVs**
+## Essential Biodiversity Variables (**EBVs)**
 
 An **Essential Biodiversity Variable** (**EBV**) is a measurement required for study, reporting, and management of biodiversity change ([Pereira et al 2013](https://www.science.org/doi/abs/10.1126/science.1229931)).
 
@@ -24,38 +24,40 @@ EBVs are biological state variables and they are selected to capture biodiversit
 
 GEO BON working groups have defined [6 EBVs classes](https://geobon.org/ebvs/what-are-ebvs/) that captures all levels of biodiversity.
 
-| EBV class                                                                         | Description                                                            |
-|--------------------------------------|---------------------------------|
-| [Genetic composition](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12852) | Genetic diversity (richness and heterozygosity)                        |
-|                                                                                   | Genetic differentiation (number of genetic units and genetic distance) |
-|                                                                                   | Effective population size                                              |
-|                                                                                   | Inbreeding                                                             |
-| [Species populations](https://www.nature.com/articles/s41559-019-0826-1)          | Species distributions                                                  |
-|                                                                                   | Species abundances                                                     |
-| [Species traits](https://www.nature.com/articles/s41559-018-0667-3)               | Morphology                                                             |
-|                                                                                   | Physiology                                                             |
-|                                                                                   | Phenology                                                              |
-|                                                                                   | Movement                                                               |
-|                                                                                   | Reproduction                                                           |
-| Community composition                                                             | Community abundance                                                    |
-|                                                                                   | Taxonomic/phylogenetic diversity                                       |
-|                                                                                   | Trait diversity                                                        |
-|                                                                                   | Interaction diversity                                                  |
-| Ecosystem functioning                                                             | Primary productivity                                                   |
-|                                                                                   | Ecosystem phenology                                                    |
-|                                                                                   | Ecosystem disturbances                                                 |
-| Ecosystem structure                                                               | Live cover fraction                                                    |
-|                                                                                   | Ecosystem distribution                                                 |
-|                                                                                   | Ecosystem Vertical Profile                                             |
+| EBV class                                                                          | Description                                                                              |
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| [Genetic composition](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12852)  | Genetic diversity (richness and heterozygosity)                                          |
+|                                                                                    | Genetic differentiation (number of genetic units and genetic distance)                   |
+|                                                                                    | Effective population size                                                                |
+|                                                                                    | Inbreeding                                                                               |
+| [Species populations](https://www.nature.com/articles/s41559-019-0826-1)           | Species distributions                                                                    |
+|                                                                                    | Species abundances                                                                       |
+| [Species traits](https://www.nature.com/articles/s41559-018-0667-3)                | Morphology                                                                               |
+|                                                                                    | Physiology                                                                               |
+|                                                                                    | Phenology                                                                                |
+|                                                                                    | Movement                                                                                 |
+|                                                                                    | Reproduction                                                                             |
+| Community composition                                                              | Community abundance                                                                      |
+|                                                                                    | Taxonomic/phylogenetic diversity                                                         |
+|                                                                                    | Trait diversity                                                                          |
+|                                                                                    | Interaction diversity                                                                    |
+| Ecosystem functioning                                                              | Primary productivity                                                                     |
+|                                                                                    | Ecosystem phenology                                                                      |
+|                                                                                    | Ecosystem disturbances                                                                   |
+| [Ecosystem structure](https://geobon.org/ebvs/working-groups/ecosystem-structure/) | Ecosystems extent                                                                        |
+|                                                                                    | Fragmentation                                                                            |
+|                                                                                    | Heterogeneity                                                                            |
+|                                                                                    | Ecosystem Vertical Profile (heoight, canpopy profile, complexity)                        |
+|                                                                                    | Otehrs (Above ground biomass, deadwood, leaf area index, composition by functional type) |
 
-## Essential Ecosystem Services Variables (EESVs)
+## Essential Ecosystem Services Variables (**EESVs**)
 
 "We define **Essential Ecosystem Services Variables (EESVs**) as the minimum set of core variables needed to identify key changes in the interactions between nature and society that contribute to human well-being through ecosystem services." ([Balvanera et al 2022](#0){style="font-size: 11pt;"}).
 
 [Balvanera et al (2022](https://www.sciencedirect.com/science/article/abs/pii/S1877343522000045)) proposed that "EESV classes can be operationalized to document changes in different elements of ecosystem services across space, time, and societal contexts.
 
 | **EESVs classes**          | Description                                                                                                                                                                         |
-|---------------|---------------------------------------------------------|
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ecological supply          | the ecosystem structure and functions that underlie the potential capacity of ecosystems to provide ecosystem services                                                              |
 | Anthropogenic contribution | the efforts that humans invest to enhance ecological supply and to make use of ecosystem services                                                                                   |
 | Demand                     | the explicitly or implicitly expressed human desire or need for an ecosystem service, in terms of its quantity or quality, irrespective of whether awareness exists about such need |

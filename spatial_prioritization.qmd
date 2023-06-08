@@ -1,0 +1,14 @@
+---
+title: "Spatial prioritization"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+# Introduction
+
+Identifying priority areas for biodiversity and how conservation goals might be achieve efficiently conservation is part of the systematic conservation plannig framework and requires among others, spatial proritization tools ([Moilanen et al 2022](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13819#:~:text=Spatial%20(conservation)%20prioritization%20integrates%20data,impact%20avoidance%20outside%20protected%20areas.), [Kukkala and Moilanen 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12008)).

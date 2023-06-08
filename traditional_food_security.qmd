@@ -12,3 +12,15 @@ toc: true
 # Introduction
 
 **in progress....**
+
+Food security relates to the fundamental human right of access to food ([United Nations, 1948](https://www.un.org/en/about-us/universal-declaration-of-human-rights)). Specifically, food security is achieved when a reliable supply of food is available for a region/people ([Mbow et al., 2019](https://policycommons.net/artifacts/458644/food-security/1431487/)). In historically ostracised and remote communities, food security is a fundamental issue ([Salomon et al., 2020](http://coastalvoices.net/books-articles-reports)). The impact of colonial practices on indigenous people around the world has resulted in many communities losing their food sovereignty and security ([Whyte, 201](https://academic.oup.com/edited-volume/27989/chapter-abstract/211700194?redirectedFrom=fulltext)8). In a time of reconciliation, efforts to revitalise traditional practices and return rights to indigenous people must address food security problems ([Chuenpagdee and Jentoft, 2019](https://link.springer.com/book/10.1007/978-3-319-94938-3)).
+
+Here we present two main traditional food actitivities that are crucial for indigenous and local communities in the HJBL: **freshwater fisheries** and **foraging wild foods**.
+
+Figure 1 presents a conceptual framework for understanding the multiple contributors to food security in modern indigenous communities.
+
+![](TFS_Fig1.png)
+
+Figure 1. A conceptual representation of the multiple factors affecting food security in the Canadian North. "This dynamic, holistic, people-centred framework is a tool for analyzing and understanding food security and food sovereignty in northern Canada. The wheel represents the complex interplay between factors that affect northern Aboriginal peoples, and how food security and food sovereignty emerge from these relationships. Because the framework is fluid, no single factor should be interpreted as static or merely linked to the factor to which it is most closely positioned. Each factor is understood to have multiple relationships with other concepts within the wheel." From [Council of Canadian Academies, 2014](https://cca-reports.ca/reports/aboriginal-food-security-in-northern-canada-an-assessment-of-the-state-of-knowledge/).\
+
+# 

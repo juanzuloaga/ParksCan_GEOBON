@@ -10,3 +10,19 @@ editor: visual
 ---
 
 **in progress....**
+
+# Introduction
+
+Globally, a key source of food providing high quality protein and supporting healthy diets is fish ([Béné et al., 2016](https://www.sciencedirect.com/science/article/abs/pii/S0305750X15002892?via%3Dihub)). Subsistence fisheries are meant to provide enough food for the fisher and their family/community. These small- scale fisheries are essential to food security for many communities but also support the culture and sense of place of many indigenous peoples ([McClanahan, Allison and Cinner, 2015](https://onlinelibrary.wiley.com/doi/10.1111/faf.12045)). Typically, subsistence fisheries are more sustainable than large-scale commercial fishing but can be heavily impacted by these practices as they rely on the same stocks of fish ([Béné et al., 2016](https://www.sciencedirect.com/science/article/abs/pii/S0305750X15002892?via%3Dihub)). As such, many communities around the world are facing reduced catch as a consequence of declining stocks, threatening their food security and culture ([Pauly, Watson and Alder, 2005](https://royalsocietypublishing.org/doi/10.1098/rstb.2004.1574)).
+
+::: panel-tabset
+## How to measure it
+
+## Case studies
+
+Here, we discuss several case studies where issues of food security arose, from which lessons can be learnt for the HJBL region. All case studies discussed here involve indigenous communities relying on fish as a source of food but from different regions of the world: Alaska, Manitoba, Ontario, Nunavut, the Northwest Territories, Greenland and New Zealand.
+
+## Monitoring
+
+## Tools
+:::

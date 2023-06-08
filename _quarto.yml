@@ -18,13 +18,14 @@ website:
       - sidebar:biodiversity
       - sidebar:Carbon_storage
       - sidebar:traditional_food_security
+      
 
   sidebar:
     - id: Logistics
       title: "Logistics"
       style: "docked"
       background: light
-      collapse-level: 2
+      collapse-level: 3
       contents:
         - Logistics.qmd
         
@@ -32,12 +33,12 @@ website:
       title: "Frameworks"
       contents:
         - frameworks.qmd
-        - ecosystem_services.qmd
-        - biodiversity.qmd
-        - dual_frameworks.qmd
         - GEOBON_Framework.qmd
+        - ecosystem_services.qmd
         - essential_variables.qmd
         - indicators.qmd
+        - multiple_frameworks.qmd
+
         
     - id: biodiversity
       title: "Biodiversity"
@@ -58,6 +59,7 @@ website:
       contents:
         - traditional_food_security.qmd
         - Freshwater_fisheries.qmd
+        - Foraging_wild_foods.qmd
 
    
 format:

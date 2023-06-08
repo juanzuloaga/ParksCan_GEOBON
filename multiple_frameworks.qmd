@@ -1,0 +1,14 @@
+---
+title: "Multiple frameworks"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+Multiple frameworks have been proposed to prevent simultaneously overarching threats , for instance biodiversity loss and carbon losses and/or climate change.
+
+**In progress....**

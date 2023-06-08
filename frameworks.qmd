@@ -9,16 +9,10 @@ toc: true
 editor: visual
 ---
 
-We summarized a preliminary review of frameworks that have been proposed to protect biodiversity, manage ecosystem services, and inform decision makers and global, national and regional policy to address biodiversity loss and the erosion of ecosystem services.
+We summarized a preliminary review of frameworks that have been proposed to protect biodiversity, manage ecosystem services, and inform decision makers and guide global, national and regional policies to address biodiversity loss, prevent the erosion of ecosystem services, support sustainable use of natural resources, and integrate local and indigenous communities knowledge systems.
 
-Broadly speaking, these frameworks can be group into three groups:
+Most of these frameworks overlap each other and with the [GEO BON framework](https://geobon.org/) that is aimed to measure, assess and monitor biodiversity and ecosystem services.
 
--   Ecosystem services
+For instance, there are some global integrated assessment frameworks ([FAO-UN, 2020](https://www.fao.org/3/CA8200EN/CA8200EN.pdf)) for peatland monitoring, reporting and verification that nations and other stakeholders are implementing: [Sustainable Development Goals (SDGs)](https://sdgs.un.org/2030agenda), [The Sendai Framework for Disaster Risk Reduction (DRR)](https://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf), and [The Ramsar Convention on Wetlands](https://www.ramsar.org/). In addition, there are some frameworks in which the area of interest could be incorporated: [The United Nations Framework Convention on Climate Change](https://unfccc.int/resource/docs/convkp/conveng.pdf) and Fire Monitoring Initiatives (e.g.,[FireMARS Canada](https://natural-resources.canada.ca/our-natural-resources/forests/wildland-fires-insects-disturbances/fire-monitoring-reporting-tool/13159)). All these these frameworks overlap each other and with the CBD goals, indicators and expected results. Spatially explicit assessment and impact evaluation is not fully supported and integrated by these frameworks.
 
--   Biodiversity
-
--   Traditional food security
-
--   Dual/multiple frameworks
-
-We also show the elements of the GEO BON framework (essential variables and indicators) to measure, assess and monitor biodiversity and ecosystem services.
+We start describing the GEO BON framework, followed by three sections: ecosystem services, essential variables and indicators. Finally we present some multiple/dual frameworks attempting to prevent simultaneously overarching threats to tackle, for instance biodiversity loss and carbon losses.
