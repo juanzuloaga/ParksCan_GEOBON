@@ -18,6 +18,7 @@ website:
       - sidebar:biodiversity
       - sidebar:Carbon_storage
       - sidebar:traditional_food_security
+      - sidebar:spatial_prioritization
       
 
   sidebar:
@@ -60,6 +61,10 @@ website:
         - traditional_food_security.qmd
         - Freshwater_fisheries.qmd
         - Foraging_wild_foods.qmd
+        
+    - id: spatial_prioritization
+      title: "Spatial prioritization"
+      contents: spatial_prioritization.qmd
 
    
 format:
