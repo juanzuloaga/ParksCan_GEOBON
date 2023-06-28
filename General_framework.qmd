@@ -1,0 +1,193 @@
+---
+title: "General_framework"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+# Introduction
+
+Here we present a general framework to integrate multiple knowledge systems and improve knowledge application of tools, approaches, and models to protect biodiversity, manage carbon storage-services and enhance traditional food security in the Hudson-James Bay Lowlands Initiative multiple philosophies, aims, strategies.
+
+Our focus will be identifying most relevant **aims/goals** from multiple partners' needs along with **strategies, indicators and applications** to promote biodiversity conservation and the use of multiple ecosystem services in the HJBL. However, we start with **overarching frameworks** to illustrate how we can integrate multiple knowledge systems in this initiative.
+
+# Philosophies/overarching frameworks
+
+[Mace (2005)](https://mahb.stanford.edu/wp-content/uploads/2014/10/Mace-2014-Science.pdf) described four overarching frameworks (philosophies) that have been playing an active role in biodiversity conservation, and the last one is was added by [Evans (2021)](https://www.cambridge.org/core/journals/environmental-conservation/article/reconceptualizing-the-roles-of-science-in-biodiversity-conservation/5B6C81412C2EA136DFE3D3C91B19E8A8/share/3633f73b0610bd339474cdf93834335ae24372ce), as follow:
+
+**Nature for itself**: "..which prioritizes wilderness and intact natural habitats, generally without people, and has scientific underpinnings from wildlife ecology, natural history, and theoretical ecology.." Examples of this type are for example: iconic species (e.g., [Caribou](https://www.wcscanada.org/Wildlife/Caribou.aspx)) and area-based conservation (e.g., [protected areas](https://www.protectedplanet.net/en), [KBAs](https://www.keybiodiversityareas.org/)).
+
+**Nature despite people**: "..the focus is on threats to species and habitats from humans, and on strategies to reverse or reduce them." Some examples include species extinction risk ([Species at risk](https://www.cosewic.ca/index.php/en-ca/about-us/cosewic-members.html)) and habItat loss ([Global Forest Watch](https://www.globalforestwatch.org/dashboards/country/CAN/?category=summary&location=WyJjb3VudHJ5IiwiQ0FOIl0%3D&map=eyJjZW50ZXIiOnsibGF0Ijo1NC42Njk3Mjg3MTczMDc4NzYsImxuZyI6LTgwLjA5MjEzODQwMDcxODUzfSwiem9vbSI6Mi43MDk0MjIwNjI2ODUwOTI3LCJjYW5Cb3VuZCI6ZmFsc2UsImRhdGFzZXRzIjpbeyJkYXRhc2V0IjoicG9saXRpY2FsLWJvdW5kYXJpZXMiLCJsYXllcnMiOlsiZGlzcHV0ZWQtcG9saXRpY2FsLWJvdW5kYXJpZXMiLCJwb2xpdGljYWwtYm91bmRhcmllcyJdLCJib3VuZGFyeSI6dHJ1ZSwib3BhY2l0eSI6MSwidmlzaWJpbGl0eSI6dHJ1ZX0seyJkYXRhc2V0IjoiTmV0LUNoYW5nZS1TVEFHSU5HIiwibGF5ZXJzIjpbImZvcmVzdC1uZXQtY2hhbmdlIl0sIm9wYWNpdHkiOjEsInZpc2liaWxpdHkiOnRydWUsInBhcmFtcyI6eyJ2aXNpYmlsaXR5Ijp0cnVlLCJhZG1fbGV2ZWwiOiJhZG0wIn19XX0%3D&showMap=true)).
+
+**Nature for people**: ".. nature provides crucial goods and services that are irreplaceable yet had been consistently ignored.... The work on the [Millennium Ecosystem Assessment](https://www.millenniumassessment.org/documents/document.356.aspx.pdf) was a key driver of the widespread adoption of this way of thinking about the natural environment". Multiple examples and initiatives have been developed and implemented (e.g., [ResNet](https://www.nsercresnet.ca/index.html)).
+
+**Peoples and natures**: "..explicit recognition of actors, knowledges and institutions associated with diverse fields of research, policy and practice that contribute to multiple conservation goals (which may not necessarily considered as be part of conservation science), a more nuanced conceptualization of science in conservation is possible". For instance, knowledge co-production, trans-diciplinarity; and, as [Williams et al (2020)](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12720) proposed "...from identifying problems to diagnosing their proximate and ultimate causes, and from proposing, to designing, implementing, and testing responses". This is the framework that fits the most for this initiative.
+
+# Aims/goals
+
+-   Protect species
+
+-   Protect ecosystems
+
+-   Reduce extinction risk
+
+-   Reduce habitat loss
+
+-   Provide sustainad use of biodiversity
+
+-   Provide sustained use of ecosystem services
+
+-   Mitigate climate change
+
+# Strategies
+
+-   Protect areas of significant biodiversity
+
+-   Maintain genetically viable populations
+
+-   Re-introductions
+
+-   Restore habitats
+
+-   Protect remaining areas
+
+# Indicators
+
+-   Proportion species with effective population size \> 500
+
+-   Ecosystem extent
+
+-   Total carbon stored
+
+# Applications
+
+-   Conservation priorities
+
+-   Management: biodiversity
+
+-   Management: ecosystem services
+
+-   Monitoring
+
+# Example
+
+This is an example to illustrate the general framework, including the complexity of interrelationships of these elements. The overarching framework 'Peoples and Natures' implies multiple partners working in together in multiple aims/goals.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+
+library(networkD3)
+
+nodes = data.frame("name" = 
+ c("Nature for itself", # Node 0
+
+   "Protect species", # Node 1
+   "Protect ecosystems", # Node 2
+   "Significant biodiversity",# Node 3
+   "Ecosystem extent",# Node 4
+   "Monitoring", # Node 5
+   
+   "Nature despite people", # Node 6
+   "Reduce habitat loss", # Node 7
+   
+   "Protect remaining habitats", # Node 8
+   "Reduce extinction risk", # Node 9
+   "Maintain genetically viable populations", # Node 10
+   "Effective pop-size >500", # Node 11
+   "Restore habitats", # Node 12
+   "Re-introductions",  # Node 13
+   "Conservation priorities", # Node 14
+   "Management: biodiversity", #Node 15
+   "Nature for people", # Node 16
+   "Provide sustained use-biodiversity", # Node 17
+   "Provide sustained use-eco-services", # Node 18
+   
+   "Total carbon stored", # Node 19
+   "Management:  eco-services", #Node 20
+   "People and nature", # Node 21
+   "Mitigate climate change" # Node 22
+
+  # "People and natures", # Node 5
+ #"Protection of 30% planet", # Node 12
+ # "Ecosystem structure", # Node5
+ 
+ ) # Node 13
+ ) 
+
+links = as.data.frame(matrix(c(
+ 0, 1, 4, # Each row represents a link. The first number ok
+ 0, 2, 4, # represents the node being conntected from. ok
+ 1, 3, 3, # the second number represents the node connected to.
+ 2, 3, 3, # The third number is the value of the node
+ 3, 4, 2,
+ 4, 5, 1,
+ 6, 7, 4,
+ 7, 3, 3,
+ 1, 8, 3,
+ 8, 4, 2,
+ 6, 9, 4,
+ 9, 10, 3,
+ 10, 11, 2,
+ 11, 5, 1,
+ 9, 12, 3,
+ 12, 4, 2,
+ 9, 13, 3,
+ 13, 4, 2,
+ 4, 14, 1,
+ 11, 14, 1,
+ 4, 15, 1,
+ 16, 17, 4,
+ 17, 10, 3,
+ 11, 15, 1,
+ 16, 17, 4,
+ 17, 8, 3,
+ 16, 18, 4,
+ 18, 8, 3,
+ 8, 19, 2,
+ 19, 20, 1,
+ 19, 5, 1,
+ 21, 22, 4,
+ 22, 8, 3,
+ 22, 12, 3
+
+
+),
+ byrow = TRUE, ncol = 3))
+ names(links) = c("source", "target", "value")
+
+ p <- sankeyNetwork(Links = links, Nodes = nodes,
+ Source = "source", Target = "target",
+ Value = "value", NodeID = "name",
+ fontSize= 13, nodeWidth = 15, margin = list(right=51, left=51, bottom=20))
+
+ 
+
+htmlwidgets::onRender(p, '
+  function(el) { 
+     // set link label font size
+    var cols_x = this.sankey.nodes().map(d => d.x).filter((v, i, a) => a.indexOf(v) === i).sort(function(a, b){return a - b});
+    var labels = ["Philosophy", "Aims", "Strategies", "Indicators", "Applications"];
+    cols_x.forEach((d, i) => {
+      d3.select(el).select("svg")
+        .append("text")
+        .attr("x", d)
+        .attr("y", 12)
+        .text(labels[i])
+        .style("font-size", "14px");
+    })
+    
+    // set node text middle
+    d3.select(el)
+      .select("svg")
+      .selectAll(".node text")
+      .attr("text-anchor", "middle")
+      .style("text-orientation", "upright");
+    
+  }
+  
+')
+```

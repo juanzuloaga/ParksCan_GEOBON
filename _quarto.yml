@@ -14,7 +14,7 @@ website:
       - text: "Home"
         file: index.qmd
       - sidebar:Logistics
-      - sidebar:frameworks
+      - sidebar:General_framework
       - sidebar:biodiversity
       - sidebar:Carbon_storage
       - sidebar:traditional_food_security
@@ -30,15 +30,14 @@ website:
       contents:
         - Logistics.qmd
         
-    - id: frameworks
-      title: "Frameworks"
+    - id: General_framework
+      title: "General_framework"
       contents:
-        - frameworks.qmd
+        - General_framework.qmd
         - GEOBON_Framework.qmd
         - ecosystem_services.qmd
         - essential_variables.qmd
         - indicators.qmd
-        - multiple_frameworks.qmd
 
         
     - id: biodiversity

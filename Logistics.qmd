@@ -41,22 +41,24 @@ We will held a workshop with all partners.
 
 -   **Place and venue**: Montreal (venue TBD)
 
+### Potential worshop sessions
+
 We are planning to have breaking/discussion groups for specific topics that will report in plenary sessions. This is a preliminary list of potential topics (it is not in a specific order yet):
 
 **In progress.......**
 
-|     | Topic                                                        |     |
-|-----|--------------------------------------------------------------|-----|
-| 1   | Carbon storage: how to measure it                            |     |
-| 2   | Carbon storage: services provided                            |     |
-| 3   | Traditional food security (freshwater fisheries, wild foods) |     |
-| 4   | Integrating knowledge systems                                |     |
-| 5   | Protecting genetic diversity                                 |     |
-| 6   | Protecting species/communities                               |     |
-| 7   | Protecting ecosystems                                        |     |
-| 8   | Multiple/dual frameworks                                     |     |
-| 9   | Prioritization tools                                         |     |
-| 10  | Integrating models/tools/indicators                          |     |
+|     | Topic                                                        |
+|-----|--------------------------------------------------------------|
+| 1   | Carbon storage: how to measure it                            |
+| 2   | Carbon storage: services provided                            |
+| 3   | Traditional food security (freshwater fisheries, wild foods) |
+| 4   | Integrating knowledge systems                                |
+| 5   | Protecting genetic diversity                                 |
+| 6   | Protecting species/communities                               |
+| 7   | Protecting ecosystems                                        |
+| 8   | Multiple/dual frameworks                                     |
+| 9   | Prioritization tools                                         |
+| 10  | Integrating models/tools/indicators                          |
 
 # Potential Invitees
 
@@ -79,29 +81,23 @@ This is a preliminary distribution of potential invitees:
 ::: panel-tabset
 ## Facilitator
 
-+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+|               |                                                                                                                                                                       |                                   |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
 | **Name**      | **Description**                                                                                                                                                       | **Contact (email) - coming from** |
-+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
 | **(TBD)** ??? | A person with the ability to operationalize, coordinate and maintain an effective and productive dialog among partners with different expertise and knowledge systems |                                   |
-+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
 
 ## GEO BON
 
 ### International experts
 
-+-----------+---------------+------------------+-----------------------------------+
-| **Name**  | **Expertise** | **Organization** | **Contact (email) - coming from** |
-+-----------+---------------+------------------+-----------------------------------+
-|           |               |                  |                                   |
-+-----------+---------------+------------------+-----------------------------------+
-|           |               |                  |                                   |
-+-----------+---------------+------------------+-----------------------------------+
-|           |               |                  |                                   |
-+-----------+---------------+------------------+-----------------------------------+
-|           |               |                  |                                   |
-+-----------+---------------+------------------+-----------------------------------+
-|           |               |                  |                                   |
-+-----------+---------------+------------------+-----------------------------------+
+|          |               |                  |                                   |
+|----------|---------------|------------------|-----------------------------------|
+| **Name** | **Expertise** | **Organization** | **Contact (email) - coming from** |
+|          |               |                  |                                   |
+|          |               |                  |                                   |
+|          |               |                  |                                   |
+|          |               |                  |                                   |
+|          |               |                  |                                   |
 
 ### Planning
 
@@ -121,19 +117,14 @@ This is a preliminary distribution of potential invitees:
 
 ### Supporting team
 
-+-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
+|                                                     |                                         |                                                                                |
+|-----------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------|
 | **Name**                                            | **Expertise - Organization**            | **Contact (email) - coming from**                                              |
-+-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | Jean-Michel Lord                                    | Software developer - McGill             | Montreal                                                                       |
-+-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | Wenyuan Zhang                                       | Ecosystem services -McGill              | Montreal                                                                       |
-+-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | Flavio Affinito                                     | Ecosystem services -McGill              | Montreal                                                                       |
-+-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | [Amanda Schwantes ](https://aschwantes.weebly.com/) | Ecosystem services - U fo T             | [amanda.schwantes\@utoronto.ca](mailto:amanda.schwantes@utoronto.ca) - Toronto |
-+-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 | Ágnes Vári                                          | Ecosystem services, Indicators - McGill | Montreal                                                                       |
-+-----------------------------------------------------+-----------------------------------------+--------------------------------------------------------------------------------+
 
 ## Regional experts
 
