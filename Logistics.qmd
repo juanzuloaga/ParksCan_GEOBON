@@ -47,18 +47,15 @@ We are planning to have breaking/discussion groups for specific topics that will
 
 **In progress.......**
 
-|     | Topic                                                        |
-|-----|--------------------------------------------------------------|
-| 1   | Carbon storage: how to measure it                            |
-| 2   | Carbon storage: services provided                            |
-| 3   | Traditional food security (freshwater fisheries, wild foods) |
-| 4   | Integrating knowledge systems                                |
-| 5   | Protecting genetic diversity                                 |
-| 6   | Protecting species/communities                               |
-| 7   | Protecting ecosystems                                        |
-| 8   | Multiple/dual frameworks                                     |
-| 9   | Prioritization tools                                         |
-| 10  | Integrating models/tools/indicators                          |
+|     | Topic                                                                        |
+|-----|------------------------------------------------------------------------------|
+| 1   | Carbon storage: how to measure/monitor it                                    |
+| 2   | Carbon storage: how to manage services                                       |
+| 3   | Traditional food security (freshwater fisheries, wild foods)                 |
+| 4   | Integrating knowledge systems                                                |
+| 5   | Protecting biodiversity, reducing extinction risk (from genes to ecosystems) |
+| 6   | Spatial prioritization tools and aplications                                 |
+| 7   | Integrating models/tools/indicators                                          |
 
 # Potential Invitees
 
@@ -77,6 +74,8 @@ This is a preliminary distribution of potential invitees:
 -   GEOBON planning team: 4
 
 -   GEOBON local floating invitees for specific topics: 15
+
+**We are in the process of identifying and inviting people to the workshop........**
 
 ::: panel-tabset
 ## Facilitator
@@ -128,5 +127,5 @@ This is a preliminary distribution of potential invitees:
 
 ## Regional experts
 
-## Implementers
+## User/Implementers
 :::

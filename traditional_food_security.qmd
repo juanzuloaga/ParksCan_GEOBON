@@ -17,7 +17,9 @@ Food security relates to the fundamental human right of access to food ([United 
 
 Here we present two main traditional food actitivities that are crucial for indigenous and local communities in the HJBL: **freshwater fisheries** and **foraging wild foods**.
 
-Figure 1 presents a conceptual framework for understanding the multiple contributors to food security in modern indigenous communities.
+Many indigenous communities around the world face issues of food security, especially in remote areas. However, not all communities suffer from the same rates of food insecurity, even within similar ecological regions, for example about 25% of households in Western Alaska are food insecure compared to 69% in Nunavut ([Chuenpagdee and Jentoft, 2019](https://www.researchgate.net/profile/Tek-Gurung/publication/329100949_The_principles_of_interdisciplinary_research_in_small_scale_fisheries/links/5bf56ced299bf1124fe4b052/The-principles-of-interdisciplinary-research-in-small-scale-fisheries.pdf)). In fact, Nunavut has the highest rate of food insecurity for any indigenous population living in a developed country ([Council of Canadian Academies, 2014](https://cca-reports.ca/reports/aboriginal-food-security-in-northern-canada-an-assessment-of-the-state-of-knowledge/)). Culture, history, local practices, environmental change, logistics and governance systems all play a role in food security outcomes. **Figure 1** presents a conceptual framework for understanding the multiple contributors to food security in modern indigenous communities.
+
+**Figure 1**. presents a conceptual framework for understanding the multiple contributors to food security in modern indigenous communities.
 
 ![](TFS_Fig1.png)
 
