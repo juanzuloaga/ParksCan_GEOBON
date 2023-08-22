@@ -9,7 +9,7 @@ toc: true
 editor: visual
 ---
 
-A general and operational framework for the HJBL initiative should integrate multiple knowledge systems, aims and strategies. It will also facilitate the application of tools, approaches, and models to protect biodiversity, manage carbon storage-services and enhance traditional food security, among others.
+A general and operational framework for the HJBL initiative should weave multiple knowledge systems, aims and strategies. It will also facilitate the application of tools, approaches, and models to protect biodiversity, manage carbon storage-services and enhance traditional food security, among others.
 
 There are multiple frameworks in the intersection of biodiversity conservation and community well-being and development that can inform decision-making and policy. For instance, [Mace (2014)](https://mahb.stanford.edu/wp-content/uploads/2014/10/Mace-2014-Science.pdf) described four overarching frameworks (philosophies) that have been playing an active role in biodiversity conservation. Others frameworks are aimed to tackle specific issues/features of biodiversity conservation and/or human well-being. For instance,
 

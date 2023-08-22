@@ -86,10 +86,11 @@ This is a preliminary distribution of potential invitees:
 ::: panel-tabset
 ## Facilitator
 
-|               |                                                                                                                                                                       |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Name**      | **Description**                                                                                                                                                       |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **(TBD)** ??? | A person with the ability to operationalize, coordinate and maintain an effective and productive dialog among partners with different expertise and knowledge systems |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## GEO BON
 
@@ -167,21 +168,27 @@ This is a preliminary distribution of potential invitees:
 
 #### **Planning**
 
-|                    |                     |                                                                            |
-|--------------------|---------------------|----------------------------------------------------------------------------|
++--------------------+---------------------+----------------------------------------------------------------------------+
 | Andrew Gonzalez    | GEO BON Co-chair    | [McGill](https://www.thegonzalezlab.org/) - [GEO BON](https://geobon.org/) |
++--------------------+---------------------+----------------------------------------------------------------------------+
 | Adriana Radulovici | Administrative      | [GEO BON](https://geobon.org/)                                             |
++--------------------+---------------------+----------------------------------------------------------------------------+
 | Juan Zuloaga       | Science coordinator | [McGill](https://www.thegonzalezlab.org/) - [GEO BON](https://geobon.org/) |
++--------------------+---------------------+----------------------------------------------------------------------------+
 
 #### **Supporting team**
 
-|                  |                                   |                                                        |
-|------------------|-----------------------------------|--------------------------------------------------------|
++------------------+-----------------------------------+--------------------------------------------------------+
 | Jean-Michel Lord | Software developer - Scrum master | [GEO BON](https://geobon.org/)                         |
++------------------+-----------------------------------+--------------------------------------------------------+
 | Wenyuan Zhang    | Ecosystem services                | [McGill](https://www.thegonzalezlab.org/)              |
++------------------+-----------------------------------+--------------------------------------------------------+
 | Flavio Affinito  | Ecosystem services                | [McGill](https://www.thegonzalezlab.org/)              |
++------------------+-----------------------------------+--------------------------------------------------------+
 | Amanda Schwantes | Ecosystem services - U fo T       | [Univerity of Toronto](https://aschwantes.weebly.com/) |
++------------------+-----------------------------------+--------------------------------------------------------+
 | Ágnes Vári       | Ecosystem services, Indicators    | [McGill](https://www.thegonzalezlab.org/)              |
++------------------+-----------------------------------+--------------------------------------------------------+
 
 ## Regional experts
 
@@ -240,67 +247,67 @@ We are planning to have breakout groups for specific topics that will report in 
 
 **In progress (we need to discuss this with the planning team).......**
 
-+---+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-|   | Topic                                                                                                                                                    |
-+===+==========================================================================================================================================================+
-| 1 | **Integrating knowledge systems**:                                                                                                                       |
-|   |                                                                                                                                                          |
-|   | -   How do we start the dialogue among partners?                                                                                                         |
-|   |                                                                                                                                                          |
-|   | -   How do we maintain and integrate it throughout the workshop and on each topic?                                                                       |
-+---+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2 | **Carbon storage (CS)-management**:                                                                                                                      |
-|   |                                                                                                                                                          |
-|   | -   Identify strategies to protect and manage carbon-rich areas and their derived ecosystem services                                                     |
-|   |                                                                                                                                                          |
-|   | -   How to operationalize these strategies at local, regional, national context?                                                                         |
-+---+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3 | **Carbon storage (CS)-monitoring**:                                                                                                                      |
-|   |                                                                                                                                                          |
-|   | -   How to measure and monitor CS and its derived services                                                                                               |
-|   |                                                                                                                                                          |
-|   | -   How to report CS state and change and its derived services                                                                                           |
-|   |                                                                                                                                                          |
-|   | -   How to effectively inform decision making?                                                                                                           |
-+---+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4 | **Traditional food security (freshwater fisheries, wild foods)**                                                                                         |
-|   |                                                                                                                                                          |
-|   | -   Identify strategies to enhance sustained use of traditional food?                                                                                    |
-|   |                                                                                                                                                          |
-|   | -   How to monitor, report and inform decision making?                                                                                                   |
-+---+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5 | **Biodiversity (from genes to ecosystems)**                                                                                                              |
-|   |                                                                                                                                                          |
-|   | -   Reducing extinction risk                                                                                                                             |
-|   |                                                                                                                                                          |
-|   | -   Protect species , habitats and ecosystems                                                                                                            |
-|   |                                                                                                                                                          |
-|   | -   Reduce habitat loss                                                                                                                                  |
-|   |                                                                                                                                                          |
-|   | -   Climate change mitigation and adaptation                                                                                                             |
-+---+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 6 | **Integrating models/tools/indicators and Spatial prioritization**                                                                                       |
-|   |                                                                                                                                                          |
-|   | -   Which methods, tools and applications are available to:                                                                                              |
-|   |                                                                                                                                                          |
-|   |     -   integrate knowledge systems,                                                                                                                     |
-|   |                                                                                                                                                          |
-|   |     -   measure biodiversity and ecosystem services' state/change, and                                                                                   |
-|   |                                                                                                                                                          |
-|   |     -   inform decision making ? (topics 1, 2 3, 4, and 5)                                                                                               |
-|   |                                                                                                                                                          |
-|   | -   How can we implement and operationalize methods, tools and applications?                                                                             |
-|   |                                                                                                                                                          |
-|   | -   How can we integrate them to inform multiple partners and decision making at local and regional levels?                                              |
-|   |                                                                                                                                                          |
-|   | -   What are the expected results from these analyses? (data trends, state and change, attribution, scenarios, testing multiple strategies).             |
-|   |                                                                                                                                                          |
-|   | -   How can we improve data collection? Are there any priorities (geographic, taxonomic, etc.) to compile and collect data sets? (field and remote) .    |
-|   |                                                                                                                                                          |
-|   | -   What are the relevant spatial (extent, grain, etc) and temporal (month, years) scales to compile/collect data and respond to partners' expectations? |
-|   |                                                                                                                                                          |
-|   | -   What are the main recommendations to establish a team to design and implement a sub-national BON for the HJBL?                                       |
-+---+----------------------------------------------------------------------------------------------------------------------------------------------------------+
++--------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+|        | Topic                                                                                                                                                    |
++========+==========================================================================================================================================================+
+| 1      | **Weaving knowledge systems**:                                                                                                                           |
+|        |                                                                                                                                                          |
+|        | -   How do we start the dialogue among partners?                                                                                                         |
+|        |                                                                                                                                                          |
+|        | -   How do we maintain and integrate it throughout the workshop and on each topic?                                                                       |
++--------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2      | **Carbon storage (CS)-management**:                                                                                                                      |
+|        |                                                                                                                                                          |
+|        | -   Identify strategies to protect and manage carbon-rich areas and their derived ecosystem services                                                     |
+|        |                                                                                                                                                          |
+|        | -   How to operationalize these strategies at local, regional, national context?                                                                         |
++--------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3      | **Carbon storage (CS)-monitoring**:                                                                                                                      |
+|        |                                                                                                                                                          |
+|        | -   How to measure and monitor CS and its derived services                                                                                               |
+|        |                                                                                                                                                          |
+|        | -   How to report CS state and change and its derived services                                                                                           |
+|        |                                                                                                                                                          |
+|        | -   How to effectively inform decision making?                                                                                                           |
++--------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4      | **Traditional food security (freshwater fisheries, wild foods)**                                                                                         |
+|        |                                                                                                                                                          |
+|        | -   Identify strategies to enhance sustained use of traditional food?                                                                                    |
+|        |                                                                                                                                                          |
+|        | -   How to monitor, report and inform decision making?                                                                                                   |
++--------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5      | **Biodiversity (from genes to ecosystems)**                                                                                                              |
+|        |                                                                                                                                                          |
+|        | -   Reducing extinction risk                                                                                                                             |
+|        |                                                                                                                                                          |
+|        | -   Protect species , habitats and ecosystems                                                                                                            |
+|        |                                                                                                                                                          |
+|        | -   Reduce habitat loss                                                                                                                                  |
+|        |                                                                                                                                                          |
+|        | -   Climate change mitigation and adaptation                                                                                                             |
++--------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6      | **Integrating models/tools/indicators and Spatial prioritization**                                                                                       |
+|        |                                                                                                                                                          |
+|        | -   Which methods, tools and applications are available to:                                                                                              |
+|        |                                                                                                                                                          |
+|        |     -   integrate knowledge systems,                                                                                                                     |
+|        |                                                                                                                                                          |
+|        |     -   measure biodiversity and ecosystem services' state/change, and                                                                                   |
+|        |                                                                                                                                                          |
+|        |     -   inform decision making ? (topics 1, 2 3, 4, and 5)                                                                                               |
+|        |                                                                                                                                                          |
+|        | -   How can we implement and operationalize methods, tools and applications?                                                                             |
+|        |                                                                                                                                                          |
+|        | -   How can we integrate them to inform multiple partners and decision making at local and regional levels?                                              |
+|        |                                                                                                                                                          |
+|        | -   What are the expected results from these analyses? (data trends, state and change, attribution, scenarios, testing multiple strategies).             |
+|        |                                                                                                                                                          |
+|        | -   How can we improve data collection? Are there any priorities (geographic, taxonomic, etc.) to compile and collect data sets? (field and remote) .    |
+|        |                                                                                                                                                          |
+|        | -   What are the relevant spatial (extent, grain, etc) and temporal (month, years) scales to compile/collect data and respond to partners' expectations? |
+|        |                                                                                                                                                          |
+|        | -   What are the main recommendations to establish a team to design and implement a sub-national BON for the HJBL?                                       |
++--------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## 6. Post-workshop
 

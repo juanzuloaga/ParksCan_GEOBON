@@ -1,5 +1,5 @@
 ---
-title: "Integrating multiple knowledge systems in the application of relevant tools and models for the conservation of biodiversity, carbon storage-services and traditional food security in the Hudson-James Bay Lowlands"
+title: "Weaving multiple knowledge systems in the application of relevant tools and models for the conservation of biodiversity, carbon storage-services and traditional food security in the Hudson-James Bay Lowlands"
 format:
   html:
     self-contained: true
