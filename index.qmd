@@ -10,23 +10,27 @@ date-modified: last-modified
 editor: visual
 ---
 
-# Presentation
+## Presentation
 
 We organized this document to provide a preliminary context of this initiative and facilitate the communication among all partners. It will be updated regularly as we get more information and feedback. It will be also the basis of the final white paper.
 
-# Introduction
+## Introduction
 
 This initiative aims to **improve knowledge and application of tools, approaches, and models** that are appropriate at a Canadian scale for looking at how to address challenges such as **conservation of biodiversity, carbon storage-services and traditional food security** to support the establishment, active management and restoration of protected and conserved areas in the **Hudson--James Bay Lowlands (HJBL).**
 
 Tools and approaches have been developed and applied in many countries and have been analyzed through several large processes (e.g., [Methodological Assessment Report on Scenarios and Models of Biodiversity and Ecosystem Services (IPBES 2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and)), yet their application has been limited in Canada. As Parks Canada develops new approaches for establishing new protected and conserved areas and enhances active management and restoration efforts to better address the dual crises of biodiversity conservation and climate change, there is a need to explore how to refine and apply these tools and models to ecosystems across Canada.
 
-In this initiative, Parks Canada is asking the GEO BON international community **WHAT frameworks, models and tools HAVE SUCCESSFULLY WORKED?** in terms of [informing decision making and policy to protect, manage and monitor]{.underline} *biodiversity, ecosystem services (i.e., carbon storage) and traditional food security*. Moreover, **WHAT DOES NOT WORK and WHY?**
+In this initiative, Parks Canada is asking the GEO BON international community:
 
-# Area of interest
+-   **What frameworks, models and tools have successfully worked** in terms of informing decision making and policy to protect, manage and monitor biodiversity, ecosystem services (i.e., carbon storage) and traditional food security (e.g., freshwater fisheries, foraging wild fruits). Moreover, what has not worked? and Why?
 
-The Hudson-James Bay lowlands (HJBL) is located in the Mushkegowuk territory including various First nation communities: Attawapiskat First Nation, Taykwa Tagamou Nation, Kashechewan First Nation, Fort Albany First Nation, Moose Cree First Nation, Chapleau Cree First Nation, Missanabie Cree First Nation, and Weenusk First Nation (see [Mushkegouk Council](https://mushkegowuk.ca/https://mushkegowuk.ca/)). It is located in northeast Canada, known also as the [Hudson Bay Plains ecozone](http://www.ecozones.ca/english/zone/index.html) in the provinces on Ontario, Manitoba and Quebec.
+-   **How can we implement these methods and tools** in the HBJL where biodiversity and carbon data and information are sparse?
 
-Peatlands are the dominat ecosystems in this region, providing multiple local and global ecosystems services as described by [FAO-UN (2020)](https://www.fao.org/3/CA8200EN/CA8200EN.pdf): "Peatlands, also called"organic soils", "bogs", "fens", "swamps" and "mires", are the world's most carbon-dense terrestrial ecosystems. Peatlands are formed from partially decomposed plant remains that have accumulated over thousands of years under conditions of waterlogging. Peat soils hold an estimated 650 billion tonnes (Gt = Pg) of carbon on only 3 percent of the Earth's land surface -- a carbon store that is equal in magnitude to the amount of carbon in the Earth's vegetation, and more than half of the carbon in the atmosphere (Yu et al., 2010; Page et al., 2011; Dargie et al., 2017). Peatlands thus play a critical role in the global carbon cycle and in climate regulation. However, peatlands also deliver a range of other benefits for humanity, including water regulation, flood control, food, and cultural and livelihood opportunities. They support a diversity of habitats and unique and rare plant and animal species. The layers of accumulated peat contain an archive of information on changes in climate, vegetation and human activity since the last Ice Age" .
+-   **How can we weave multiple knowledge systems** in the application of these models and tools?
+
+## Area of interest
+
+The Hudson-James Bay lowlands (HJBL) is located in the Mushkegowuk territory including various First nation communities: Attawapiskat First Nation, Taykwa Tagamou Nation, Kashechewan First Nation, Fort Albany First Nation, Moose Cree First Nation, Chapleau Cree First Nation, Missanabie Cree First Nation, and Weenusk First Nation (see [Mushkegouk Council](https://mushkegowuk.ca/https://mushkegowuk.ca/)). It is located in the northeast of Canada, known also as the [Hudson Bay Plains ecozone](http://www.ecozones.ca/english/zone/index.html) in the provinces on Ontario, Manitoba and Quebec. Peatlands are the dominat ecosystems in this region, providing multiple local and global ecosystems services ([FAO-UN (2020)](https://www.fao.org/3/CA8200EN/CA8200EN.pdf), [Harris et al 2021](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437)).
 
 ```{r, echo = FALSE, warning=FALSE, message=FALSE, include = FALSE}
 
@@ -190,7 +194,7 @@ Ecozones (study area): [National Ecological Framework](https://agriculture.canad
 
 Protected areas (raw data): [World Database on Protected Areas (WDPA)](https://www.protectedplanet.net/en), downloading data using R interface [wdpar](https://cran.r-project.org/web/packages/wdpar/index.html).
 
-# Background
+## Background
 
 In 2021, Parks Canada Agency received funding for the Hudson--James Bay Lowlands Biodiversity Conservation and Sequestration Initiative. The goal of the Initiative is to work with a range of partners on studies regarding biodiversity conservation and the extent and quantity of carbon stocks and fluxes in wetland, peatland and coastal ecosystems in the Hudson--James Bay Lowlands (HJBL). This will advance understanding of:
 
@@ -206,7 +210,7 @@ To situate and guide the work to be carried out in the HJBL with Indigenous and 
 
 There is also a need to consider how Traditional Knowledge can weave appropriately into these tools and models. One element of addressing this need, is to conduct a stocktaking and analysis of existing tools, approaches, and models that already exist, prior to developing or applying new ones.
 
-# Expected results
+## Expected results
 
 -   Improved knowledge of appropriate **spatially-explicit, and scale-appropriate tools and models** for biodiversity and carbon storage for the HJBL and other landscapes across Canada, including how these can support environmental reporting obligations. 
 
@@ -214,27 +218,20 @@ There is also a need to consider how Traditional Knowledge can weave appropriate
 
 -   Improved understanding of how to **weave Traditional Knowledge systems** into the application of identified tools and models.
 
-# Activities
-
-### Phase 1
+## Activities
 
 -   Compile and review relevant tools, approaches, and models developed in other countries and/or by other organizations.
-
-### Phase 2
-
 -   Compile example case studies of application of relevant tools and approaches.
-
 -   Convene a workshop of federal, provincial/territorial, Indigenous, non-governmental, academic and international experts to explore appropriate tools and models for landscape across Canada. 
-
 -   Develop and deliver a discussion paper based on stocktaking exercise, case study analysis, and the outcome of the workshop with recommendations on appropriate tools and models, including the weaving of Traditional Knowledge into these that could be applied in the Hudson Bay-James Bay Lowlands and other landscapes across Canada.
 
-### Scope and expectations
+## Scope and expectations
 
-**Parks Canada** is interested in compiling frameworks, methods, tools and case studies taking into account these criteria:
+[**Parks Canada**](https://parks.canada.ca/nature/science) is interested in compiling frameworks, methods, tools and case studies taking into account these criteria:
 
 -   **Ecosystem services**: there are some preliminary priorities to explore within the wide range of ecological services :
     -   **Carbon storage**: HJBL harbor one of the most important peatland ecosystem in the world
-    -   **Traditional food security**: there are some traditional food priorities for indigenous and local communities to explore: freshwater fisheries, wild foods.
+    -   **Traditional food security**: there are some traditional food priorities for indigenous and local communities to explore: freshwater fisheries, foraging wild foods.
 -   **Biodiversity**: explore different levels of biodiversity (from species to ecosystems)
 -   **Spatially-explicit, and scale-appropriate** models and tools
 -   **Integrate multiple knowledge systems**
@@ -245,6 +242,6 @@ There is also a need to consider how Traditional Knowledge can weave appropriate
     -   Inform decision and policy makers
     -   Identify actions that can be implemented now (tactical) and others in the future
 
-**GEO BON** is interested in developing a **subnational BON**, which is a network of scientists (international, national, regional), government agencies, Indigenous organizations and conservation groups working together to harmonize and integrate efforts to **measure, assess and monitor biodiversity and ecosystem services.** Parks Canada initiative in the Hudson-James Bay region is an excellent opportunity to start implementing the process for BON development, in particular the **engagement phase**. See BON development Figure from [Navarro et al (2017)](https://www.sciencedirect.com/science/article/pii/S1877343517301665#fig0020).
+[**GEO BON**](https://geobon.org/about/vision-goals/) (a global biodiversity network inititative) is interested in developing a **subnational BON**, which is a network of scientists (international, national, regional), government agencies, Indigenous organizations and conservation groups working together to harmonize and integrate efforts to **measure, assess and monitor biodiversity and ecosystem services.** Parks Canada initiative in the Hudson-James Bay region is an excellent opportunity to start implementing the process for BON development. This workshop is the opportunity to initiate the **engagement phase**. See BON development Figure from [Navarro et al](https://www.sciencedirect.com/science/article/pii/S1877343517301665#fig0020)
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S1877343517301665-gr4.jpg)\

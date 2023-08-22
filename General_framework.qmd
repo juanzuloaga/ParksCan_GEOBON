@@ -1,5 +1,5 @@
 ---
-title: "General_framework"
+title: "Frameworks"
 format:
   html:
     self-contained: true
@@ -9,27 +9,51 @@ toc: true
 editor: visual
 ---
 
-# Introduction
+A general and operational framework for the HJBL initiative should integrate multiple knowledge systems, aims and strategies. It will also facilitate the application of tools, approaches, and models to protect biodiversity, manage carbon storage-services and enhance traditional food security, among others.
 
-Here we present a general framework to integrate multiple knowledge systems and improve knowledge application of tools, approaches, and models to protect biodiversity, manage carbon storage-services and enhance traditional food security in the Hudson-James Bay Lowlands Initiative multiple philosophies, aims, strategies.
+There are multiple frameworks in the intersection of biodiversity conservation and community well-being and development that can inform decision-making and policy. For instance, [Mace (2014)](https://mahb.stanford.edu/wp-content/uploads/2014/10/Mace-2014-Science.pdf) described four overarching frameworks (philosophies) that have been playing an active role in biodiversity conservation. Others frameworks are aimed to tackle specific issues/features of biodiversity conservation and/or human well-being. For instance,
 
-Our focus will be identifying most relevant **aims/goals** from multiple partners' needs along with **strategies, indicators and applications** to promote biodiversity conservation and the use of multiple ecosystem services in the HJBL. However, we start with **overarching frameworks** to illustrate how we can integrate multiple knowledge systems in this initiative.
+-   [GEO BON](https://geobon.org/) offers a framework for monitoring biodiversity, detect change and inform decision-making and policy;
 
-# Philosophies/overarching frameworks
+-   For ecosystem services we have not only the [GEO BON recently proposed Essential Ecosystem Services Variables (EESV)](https://geobon.org/ebvs/ecosystem-services/) but the [System of Environmental Economic Accounting (SEEA)](https://seea.un.org/ecosystem-accounting), and the [European Union's Mapping and Assessment of Ecosystems and their Services (MAES)](https://www.sciencedirect.com/science/article/pii/S2212041615300504)
 
-[Mace (2005)](https://mahb.stanford.edu/wp-content/uploads/2014/10/Mace-2014-Science.pdf) described four overarching frameworks (philosophies) that have been playing an active role in biodiversity conservation, and the last one is was added by [Evans (2021)](https://www.cambridge.org/core/journals/environmental-conservation/article/reconceptualizing-the-roles-of-science-in-biodiversity-conservation/5B6C81412C2EA136DFE3D3C91B19E8A8/share/3633f73b0610bd339474cdf93834335ae24372ce), as follow:
+-   [Framework for ecosystem restoration monitoring](https://ferm.fao.org/),
 
-**Nature for itself**: "..which prioritizes wilderness and intact natural habitats, generally without people, and has scientific underpinnings from wildlife ecology, natural history, and theoretical ecology.." Examples of this type are for example: iconic species (e.g., [Caribou](https://www.wcscanada.org/Wildlife/Caribou.aspx)) and area-based conservation (e.g., [protected areas](https://www.protectedplanet.net/en), [KBAs](https://www.keybiodiversityareas.org/)).
+-   Some global integrated assessment frameworks ([FAO-UN, 2020](https://www.fao.org/3/CA8200EN/CA8200EN.pdf)) offer guidance to nations and other stakeholders for implementing programs to monitor and report on peatland's state and management:
 
-**Nature despite people**: "..the focus is on threats to species and habitats from humans, and on strategies to reverse or reduce them." Some examples include species extinction risk ([Species at risk](https://www.cosewic.ca/index.php/en-ca/about-us/cosewic-members.html)) and habitat loss ([Global Forest Watch](https://www.globalforestwatch.org/dashboards/country/CAN/?category=summary&location=WyJjb3VudHJ5IiwiQ0FOIl0%3D&map=eyJjZW50ZXIiOnsibGF0Ijo1NC42Njk3Mjg3MTczMDc4NzYsImxuZyI6LTgwLjA5MjEzODQwMDcxODUzfSwiem9vbSI6Mi43MDk0MjIwNjI2ODUwOTI3LCJjYW5Cb3VuZCI6ZmFsc2UsImRhdGFzZXRzIjpbeyJkYXRhc2V0IjoicG9saXRpY2FsLWJvdW5kYXJpZXMiLCJsYXllcnMiOlsiZGlzcHV0ZWQtcG9saXRpY2FsLWJvdW5kYXJpZXMiLCJwb2xpdGljYWwtYm91bmRhcmllcyJdLCJib3VuZGFyeSI6dHJ1ZSwib3BhY2l0eSI6MSwidmlzaWJpbGl0eSI6dHJ1ZX0seyJkYXRhc2V0IjoiTmV0LUNoYW5nZS1TVEFHSU5HIiwibGF5ZXJzIjpbImZvcmVzdC1uZXQtY2hhbmdlIl0sIm9wYWNpdHkiOjEsInZpc2liaWxpdHkiOnRydWUsInBhcmFtcyI6eyJ2aXNpYmlsaXR5Ijp0cnVlLCJhZG1fbGV2ZWwiOiJhZG0wIn19XX0%3D&showMap=true)).
+    -   [Sustainable Development Goals (SDGs)](https://sdgs.un.org/2030agenda),
 
-**Nature for people**: ".. nature provides crucial goods and services that are irreplaceable yet had been consistently ignored.... The work on the [Millennium Ecosystem Assessment](https://www.millenniumassessment.org/documents/document.356.aspx.pdf) was a key driver of the widespread adoption of this way of thinking about the natural environment". Multiple examples and initiatives have been developed and implemented (e.g., [ResNet](https://www.nsercresnet.ca/index.html)).
+    -   [The Sendai Framework for Disaster Risk Reduction (DRR)](https://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf), and
 
-**Peoples and natures**: "..explicit recognition of actors, knowledges and institutions associated with diverse fields of research, policy and practice that contribute to multiple conservation goals (which may not necessarily considered as be part of conservation science), a more nuanced conceptualization of science in conservation is possible". For instance, knowledge co-production, trans-diciplinarity; and, as [Williams et al (2020)](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12720) proposed "...from identifying problems to diagnosing their proximate and ultimate causes, and from proposing, to designing, implementing, and testing responses". This is a potetial framework that fits the most this initiative.
+    -   [The Ramsar Convention on Wetlands](https://www.ramsar.org/).
 
-# Aims/goals
+-   Other frameworks offer room to incorporate and evaluate some aspects of these ecosystems, for example: [The United Nations Framework Convention on Climate Change](https://unfccc.int/resource/docs/convkp/conveng.pdf) and Fire Monitoring Initiatives (e.g.,[FireMARS Canada](https://natural-resources.canada.ca/our-natural-resources/forests/wildland-fires-insects-disturbances/fire-monitoring-reporting-tool/13159)). However, spatially explicit assessment and impact evaluation is not fully supported and integrated by these frameworks.
 
-This ais a preliminary list of aims and goals aimed to protect and manage biodiversity and ecosystem services. There is overlap in what local, national and global partners want to achieve. For instance:
+-   there are also local and regional frameworks for traditional food sovereignty and security have been proposed and implemented,
+
+Let's describe the overarching frameworks and then present specific frameworks as they might fit in partners' expectations and needs.
+
+# 1. Philosophies/overarching frameworks
+
+[Mace (2014)](https://mahb.stanford.edu/wp-content/uploads/2014/10/Mace-2014-Science.pdf) presented how the framing and purpose of biodiversity conservation have shifted in the last decades. As follow:
+
+**Nature for itself**: "..which prioritizes wilderness and intact natural habitats, generally without people, and has scientific underpinnings from wildlife ecology, natural history, and theoretical ecology.." ([Mace 2014](https://mahb.stanford.edu/wp-content/uploads/2014/10/Mace-2014-Science.pdf)). Examples of this type are for example: iconic species (e.g., [Caribou](https://www.wcscanada.org/Wildlife/Caribou.aspx)) and area-based conservation (e.g., [protected areas](https://www.protectedplanet.net/en), [KBAs](https://www.keybiodiversityareas.org/)).
+
+**Nature despite people**: "..the focus is on threats to species and habitats from humans, and on strategies to reverse or reduce them" ([Mace 2014](https://mahb.stanford.edu/wp-content/uploads/2014/10/Mace-2014-Science.pdf)). Some examples include species extinction risk ([Species at risk](https://www.cosewic.ca/index.php/en-ca/about-us/cosewic-members.html)) and habitat loss ([Global Forest Watch](https://www.globalforestwatch.org/dashboards/country/CAN/?category=summary&location=WyJjb3VudHJ5IiwiQ0FOIl0%3D&map=eyJjZW50ZXIiOnsibGF0Ijo1NC42Njk3Mjg3MTczMDc4NzYsImxuZyI6LTgwLjA5MjEzODQwMDcxODUzfSwiem9vbSI6Mi43MDk0MjIwNjI2ODUwOTI3LCJjYW5Cb3VuZCI6ZmFsc2UsImRhdGFzZXRzIjpbeyJkYXRhc2V0IjoicG9saXRpY2FsLWJvdW5kYXJpZXMiLCJsYXllcnMiOlsiZGlzcHV0ZWQtcG9saXRpY2FsLWJvdW5kYXJpZXMiLCJwb2xpdGljYWwtYm91bmRhcmllcyJdLCJib3VuZGFyeSI6dHJ1ZSwib3BhY2l0eSI6MSwidmlzaWJpbGl0eSI6dHJ1ZX0seyJkYXRhc2V0IjoiTmV0LUNoYW5nZS1TVEFHSU5HIiwibGF5ZXJzIjpbImZvcmVzdC1uZXQtY2hhbmdlIl0sIm9wYWNpdHkiOjEsInZpc2liaWxpdHkiOnRydWUsInBhcmFtcyI6eyJ2aXNpYmlsaXR5Ijp0cnVlLCJhZG1fbGV2ZWwiOiJhZG0wIn19XX0%3D&showMap=true)).
+
+**Nature for people**: ".. nature provides crucial goods and services that are irreplaceable yet had been consistently ignored...." [Mace (2005)](https://mahb.stanford.edu/wp-content/uploads/2014/10/Mace-2014-Science.pdf) . The work on the [Millennium Ecosystem Assessment](https://www.millenniumassessment.org/documents/document.356.aspx.pdf) was a key driver of the widespread adoption of this way of thinking about the natural environment". Multiple examples and initiatives have been developed and implemented (e.g., [ResNet](https://www.nsercresnet.ca/index.html)).
+
+**People and nature**: this framework "..rejects the linear relationship characteristic of"nature for people," instead envisaging a much more multilayered and multidimensional relationship that is difficult to conceptualize, let alone to measure." ([Mace 2014](https://mahb.stanford.edu/wp-content/uploads/2014/10/Mace-2014-Science.pdf)).
+
+**Peoples and natures**: this framework expands Mace's work to include multiple partners, knowledge systems in the co-production of knowledge, management planning, implementation, and evaluation ([Evans 2021](https://www.cambridge.org/core/journals/environmental-conservation/article/reconceptualizing-the-roles-of-science-in-biodiversity-conservation/5B6C81412C2EA136DFE3D3C91B19E8A8/share/3633f73b0610bd339474cdf93834335ae24372ce)); and also "..from identifying problems to diagnosing their proximate and ultimate causes, and from proposing, to designing, implementing, and testing responses" ([Williams et al 2020](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12720)).
+
+Peoples and natures seems to be a sensible way for this initiative to follow and harmonized our efforts in this initiative. However, all frameworks mentioned above, currently operational, have some common **aims/goals** (needs and expectations) and **strategies** (potential solutions) from multiple partners. Even more, they can use similar **indicators** to measure change and impact; and they also can have similar **applications** (conservation, management).
+
+Let's use the following example to illustrate the complex relationships among partners' aims/goals, strategies, indicators, applications; and the multiple frameworks presented above.
+
+## 1.1 Aims/goals
+
+This is a preliminary list of aims and goals aimed to protect and manage biodiversity and ecosystem services. There is also potential overlap among local, national and global partners' aims and goals. For instance:
 
 -   Protect species
 
@@ -45,7 +69,19 @@ This ais a preliminary list of aims and goals aimed to protect and manage biodiv
 
 -   Mitigate/adapt climate change
 
-# Strategies
+There are also social, economic, cultural and spiritual aims and goals that permeate classic biodiversity conservation goals and aims, including:
+
+-   Indigenous Peoples' land rights
+
+-   Food sovereignty
+
+-   Revitalise indigenous knowledge
+
+-   Decolonising action-research
+
+Indigenous people are engaged in transformative changes to not only protect nature but strengthen theis health, leadership and well-being. For instance, [Indigenous Protected and Conserved Areas (IPCA)](https://natural-resources.canada.ca/home/biodiversity-conservation-and-indigenous-peoples-well-being/24801) are a new path to promote Indigenous-led conservation and reconciliation in Canada.
+
+## 1.2 Strategies
 
 Several strategies can be combined to achieve multiple aims and goals listed above:
 
@@ -59,7 +95,9 @@ Several strategies can be combined to achieve multiple aims and goals listed abo
 
 -   Improve habitat connectivity
 
-# Indicators
+-   Manage biodiversity
+
+## 1.3 Indicators
 
 GEO BON offers a set of indicators that are developed based on essential variables (see next sections). For instance:
 
@@ -69,7 +107,7 @@ GEO BON offers a set of indicators that are developed based on essential variabl
 
 -   Total carbon stored
 
-# Applications
+## 1.4 Applications
 
 Applications in biodiversity conservation and management can be a product of multiple goals and strategies.
 
@@ -81,9 +119,9 @@ Applications in biodiversity conservation and management can be a product of mul
 
 -   Monitoring: GEO BON provides a framework to monitor biodiversity and inform other applications and support decision makers and policy at different spatial scales (from local to national and global).
 
-# Example
+## 1.5 Example
 
-This is an example to illustrate the general framework, including the complexity of interrelationships of these elements. The overarching framework 'Peoples and Natures' implies multiple partners working in together in multiple aims/goals.
+This is an example to illustrate multiple frameworks, aims/goals, strategies, indicators and applications; and their complex relationships (not all potential elements and relationships are depicted). The overarching framework 'Peoples and Natures' implies multiple partners setting achievable common goals, leveraging some community based opportunities ([Esmail et al 2023](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00037-X?dgcid=raven_jbs_aip_email)) and maximizing the mutual benefits of cooperation by integrating multiple strategies ([O'Bryan et al 2023](https://academic.oup.com/bioscience/article/73/7/522/7226303?utm_source=etoc&utm_campaign=bioscience&utm_medium=email&nbd=16051961754&nbd_source=campaigner)).
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 
@@ -116,8 +154,9 @@ nodes = data.frame("name" =
    
    "Total carbon stored", # Node 19
    "Management:  eco-services", #Node 20
-   "People and nature", # Node 21
-   "Mitigate climate change" # Node 22
+   "Peoples and natures", # Node 21
+   "Mitigate climate change", # Node 22
+   "Food security & sovereignity" # Node 23
 
   # "People and natures", # Node 5
  #"Protection of 30% planet", # Node 12
@@ -160,7 +199,14 @@ links = as.data.frame(matrix(c(
  19, 5, 1,
  21, 22, 4,
  22, 8, 3,
- 22, 12, 3
+ 22, 12, 3,
+ 21, 2, 4,
+ 21, 7, 4,
+ 21, 17, 4,
+ 21, 18, 4,
+ 4, 23, 1,
+ 11, 23, 1,
+ 19, 23, 1
 
 
 ),

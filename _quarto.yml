@@ -15,9 +15,9 @@ website:
         file: index.qmd
       - sidebar:Logistics
       - sidebar:General_framework
-      - sidebar:biodiversity
       - sidebar:Carbon_storage
       - sidebar:traditional_food_security
+      - sidebar:biodiversity
       - sidebar:spatial_prioritization
       
 
@@ -35,10 +35,7 @@ website:
       contents:
         - General_framework.qmd
         - GEOBON_Framework.qmd
-        - ecosystem_services.qmd
-        - essential_variables.qmd
-        - indicators.qmd
-
+      
         
     - id: biodiversity
       title: "Biodiversity"
@@ -50,10 +47,8 @@ website:
       contents:
         - Carbon_storage.qmd
         - Quantifying_CS.qmd
-        - Services_CS.qmd
         - Case_studies_CS.qmd
-        - Monitoring_CS.qmd
-        
+
     - id: traditional_food_security
       title: "Traditional food security"
       contents:
