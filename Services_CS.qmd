@@ -13,22 +13,54 @@ editor: visual
 
 ## Introduction
 
+"One-quarter of the world's northern peatlands (\~1.1 million km2; Figure [**1**](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437#fee2437-fig-0001)), and the world's largest peatland C stock (\~150 Gt), is located in Canada ([Joosten 2009](https://unfccc.int/sites/default/files/draftpeatlandco2report.pdf); [Xu et al. 2018](https://www.sciencedirect.com/science/article/abs/pii/S0341816217303004?via%3Dihub); [Hugelius et al. 2020](https://www.pnas.org/doi/full/10.1073/pnas.1916387117))." ([Harris et al 2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437)
+
+The Hudson James Bay Lowlands (HJBL) is the second largest peatland in the world, which extends over \~370,000 km2 ([Harris et al 2021](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437); [Packalen et al 2014](https://www.nature.com/articles/ncomms5078)).
+
+"...only \~10% of peatlands in Canada are currently within protected areas." ([Harris et al 2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437)
+
 ## Type of services
 
-Regulating services (climate regulation, water regulation, etc.)
+**Regulating services**
 
-Cultural services (recreational, spiritual, etc)
+-   **Climate regulation**: "As a persistent sink of atmospheric carbon dioxide (CO2) that offsets C loss as methane (CH4) and waterborne C, northern peatlands have effectively cooled the global climate ([Frolking and Roulet 2007](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2007.01339.x))." [Harris et al (2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437)
 
-Supporting (biodiversity, food security, etc..)
+-   Water regulation:
+
+**Cultural services**
+
+-   Cultural landscapes: indigenous people and nature based solutions ([Townsend et al 2020](https://www.facetsjournal.com/doi/10.1139/facets-2019-0058))
+
+-   Recreational
+
+-   Spiritual
+
+**Supporting**
+
+-   biodiversity: climate refugia ([Stralberg et al 2020](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2188))
+
+-   Traditional food security
 
 ## Threats
 
-## Peatlands
+[Harris et al (2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437) summarized major threats to peatlands in Canada, as follow:
 
-## Canada
+-   Global climate warming
 
-Figure from [Harris et al (2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437)
+-   Land-use change (e.g., Agricultural conversion, mineral extraction)
 
-![](https://esajournals.onlinelibrary.wiley.com/cms/asset/a7443d08-af16-44f4-84d0-e0697ed5f945/fee2437-fig-0002-m.jpg)
+"Of particular concern is "irrecoverable C", or peatland C stocks lost through land conversion that cannot recover by 2050, as required for net-zero global CO2 emissions ([Masson-Delmotte et al. 2018](https://www.ipcc.ch/sr15/); [Goldstein et al. 2020](https://www.nature.com/articles/s41558-020-0738-8))." ([Harris et al 2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437)
 
-## Spatial prioritization
+## Management
+
+[Harris et al (2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437) suggested some imperative long-term carbon management strategies:
+
+-   Land protection and Indigenous stewardship
+
+-   Regulatory tools for impact assessment
+
+-   Financial incentives
+
+-   GHG reporting and climate models
+
+-   An integrated framework for peatland protection in Canada

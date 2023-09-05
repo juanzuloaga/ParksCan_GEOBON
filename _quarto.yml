@@ -19,6 +19,7 @@ website:
       - sidebar:traditional_food_security
       - sidebar:biodiversity
       - sidebar:spatial_prioritization
+      - sidebar:case_studies_analysis
       
 
   sidebar:
@@ -60,6 +61,11 @@ website:
       title: "Spatial prioritization"
       contents:
         - spatial_prioritization.qmd
+        
+    - id: case_studies_analysis
+      title: "Case studies: analysis"
+      contents:
+        - case_studies_analysis.qmd
 
    
 format:

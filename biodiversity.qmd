@@ -22,11 +22,13 @@ editor: visual
 
 ([Hoban et al 2023](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12953))
 
+***Goals/targets (biodiversity conservation/human well-being):***
+
 ***Limitations:***
 
 ***Strengths:***
 
-***Actions:***
+***Actions taken or suggested:***
 
 ***Impacts/results (potential and/or measured):***
 :::

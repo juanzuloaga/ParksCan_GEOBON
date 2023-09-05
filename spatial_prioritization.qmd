@@ -9,7 +9,71 @@ toc: true
 editor: visual
 ---
 
-Identifying priority areas for biodiversity and how conservation goals might be achieve efficiently conservation is part of the systematic conservation planning framework and requires among others, spatial proritization tools ([Moilanen et al 2022](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13819#:~:text=Spatial%20(conservation)%20prioritization%20integrates%20data,impact%20avoidance%20outside%20protected%20areas.), [Kukkala and Moilanen 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12008)).
+Identifying priority areas for biodiversity conservation and evaluating how multiple conservation goals might be achieved efficiently are part of the systematic conservation planning framework and require among others, spatial prioritization tools ([Moilanen et al 2022](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13819#:~:text=Spatial%20(conservation)%20prioritization%20integrates%20data,impact%20avoidance%20outside%20protected%20areas.), [Kukkala and Moilanen 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12008)).
+
+Multiple methods to prioritize terrestrial, marine and fresh water areas, that best represent one (e.g., protect as many species as possible; e.g., [Ceballos & Ehrlich 2006](https://www.pnas.org/doi/10.1073/pnas.0609334103#:~:text=Species%20richness%20was%20defined%20as,species%20in%20a%20single%20cell.)) or multiple facets of biodiversity (e.g., [Brum et al 2017](https://www.pnas.org/doi/10.1073/pnas.1706461114)), have been proposed. These methods are usually designed and developed to respond and achieve global conservation targets (e.g., conserve at least 30% of land by 2030; [Dinerstein et al., 2019](https://www.science.org/doi/10.1126/sciadv.aaw2869); [Belote et al 2021](https://www.sciencedirect.com/science/article/pii/S0006320721004304#:~:text=Protecting%20biodiversity%20requires%20consideration%20of,richness%20alone%20represent%20alpha%20diversity.)). Their spatial extent of application varies from regional (e.g., [Mallory & Boyce 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4915)) to national (e.g., [Belote et al 2021](https://www.sciencedirect.com/science/article/pii/S0006320721004304)) and global scales (e.g., [Strassburg et al 2020](https://www.nature.com/articles/s41586-020-2784-9)), depending on conservation scope and data availability.
+
+For instance, at global scales, species geographical distributions of [mammals](https://biodiversitymapping.org/index.php/mammals/), [birds](https://biodiversitymapping.org/index.php/birds/), [amphibians](https://biodiversitymapping.org/index.php/amphibians/), and plants ([Sabatini et al 2022](https://www.nature.com/articles/s41467-022-32063-z)) have been used to identify areas of high number of species ([Ceballos & Ehrlich 2006](https://www.pnas.org/doi/10.1073/pnas.0609334103#:~:text=Species%20richness%20was%20defined%20as,species%20in%20a%20single%20cell.)) and hot spots of threatened and small-ranged species ([Jenkins et al 2013](https://www.pnas.org/doi/10.1073/pnas.1302251110); [Kier et al 2009](https://www.pnas.org/doi/10.1073/pnas.0810306106)). It is clear from this global maps that the number of species increases towards tropical regions and, along with islands, they are considered hot spots and priority areas for global biodiversity conservation ([Myers et al 2000](https://edisciplinas.usp.br/pluginfile.php/4152833/mod_resource/content/1/Texto8_Semana15_Hotspots.pdf)).
+
+In Canada, priority areas for biodiversity conservation have been identified using multiple biodiversity facets and environmental features relevant for biodiversity . Some of them have been implemented and have formal institutional support (\*\*). For instance:
+
+-   [Important Birds Areas (IBAs)](https://www.ibacanada.ca/mapviewer.jsp?lang=EN)\*\*
+
+-   [Key Biodviersy Areas (KBAs)](https://kbacanada.org/)\*\*: from species to ecosystems.
+
+-   Endemic species for conservation ([Kraus et al 2022](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.12845))
+
+-   Species at risk
+
+    -   [Pan-Candian approach 2023](https://www.canada.ca/en/services/environment/wildlife-plants-species/species-risk/pan-canadian-approach.html#fn1)\*\*
+
+    -   [SARA-COSEWIC](https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports.html),\*\*
+
+    -   [aquatic species at risk](https://www.dfo-mpo.gc.ca/species-especes/sara-lep/map-carte/index-eng.html)\*\*
+
+    -   [Critical Habitat for Species at Risk National Dataset - Canada](https://open.canada.ca/data/en/dataset/47caa405-be2b-4e9e-8f53-c478ade2ca74), [visualize it here](https://livingatlas-dcdev.opendata.arcgis.com/maps/003958a7206c41e1bfca3cb1d578058f/explore?location=47.541586%2C-81.299582%2C6.00))
+
+    -   [Woodland Caribou, Boreal population (Rangifer tarandus caribou)](https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/recovery-strategies/woodland-caribou-boreal-2020.html) ECCC\*\*
+
+-   Ecological restoration ([Currie et al 2023](https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.12924))
+
+-   Forest change, forest extent, drives, and fire alerts ([Canada- Global Forest Watch](https://www.globalforestwatch.org/dashboards/country/CAN/?category=undefined))\*\*
+
+-   Carbon storage ([Harris et al 2021](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2437))
+
+-   [Canada watersheds reports](https://watershedreports.wwf.ca/?_ga=2.233906460.360523553.1693417788-577954010.1692312458#canada/by/threat-overall/profile)
+
+-   Wetlands: ([ECCC 2016](https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/extent-wetlands.html); [Ontario](https://geohub.lio.gov.on.ca/datasets/mnrf::wetlands/explore?location=48.212505%2C-84.498000%2C4.84), [Wulder et al 2018](https://www.mdpi.com/2072-4292/10/10/1623#))\*\*
+
+-   Peatlands ([WCS](https://storymaps.arcgis.com/stories/19d24f59487b46f6a011dba140eddbe7))\*\*
+
+-   Free-flowing rivers ([Grill et al 2019](https://www.nature.com/articles/s41586-019-1111-9); for Canada see this, [WWF](https://wwf.ca/habitat/freshwater/free-flowing-rivers/)\*\*)
+
+In the region....
+
+## Biodiversity conservation and human well-being
+
+Responding to local realities in geographic spaces, researcher and practiotioners have incorporated not only multiple biodiversity facets but multiple actors expectations and needs, including multiple potential uses of biodiversity and ecosystems services, conflicting views of what is human-well being and how to achieve it, among others (e.g.,).
+
+## Protected areas (PAs) & Indigenous Protected and Conserved Areas (IPACs)
+
+[Shwan-Fletcher et al 2021](https://www.pnas.org/doi/10.1073/pnas.2022218118)
+
+[Tran et al 2019](https://www.sciencedirect.com/science/article/abs/pii/S0006320719308456)
+
+## Proactive vs. reactive conservation approaches
+
+## Some prioritization tools
+
+Zonation
+
+Marxant ([Watts et al 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8419856/))
+
+[Moilanen et al 2021](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13819)
+
+[Delavenne et al 2012](https://academic.oup.com/icesjms/article/69/1/75/672823) comparing
+
+[Gallo et al 2020](https://www.mdpi.com/2073-445X/9/11/444)
 
 # Case studies
 
@@ -32,9 +96,11 @@ Global
 
 -   Habitat condition: Biodiversity Habitat Index ([Ferrier et al 2004](https://academic.oup.com/bioscience/article/54/12/1101/329621)).
 
+***Goals/targets (biodiversity conservation/human well-being):***
+
 ***Limitations:***
 
-Good for global and national priorities; however, limited use local users.
+Good for global priorities; however, limited use national and local priorities.
 
 Uncertainty in inferring carbon stocks in land-use change scenarios.
 
@@ -42,7 +108,15 @@ Biodiversity metrics might no capture the full spectrum/status of biodiversity
 
 ***Strengths:***
 
-simple and straightforward to calculate
+Simple and straightforward to calculate
+
+It is designed to identify priority areas for proactive (prioritizing areas of low threat but high irreplaceability) and reactive (prioritizing areas of high threat and high irreplaceability) conservation actions.
+
+***Actions taken or suggested:***
+
+Should be included in the post-2020 CBD agenda
+
+"Linking this to spatially explicit estimates of restoration potential across ecosystems would help to ensure that efforts to meet the objectives of the UN Decade on Ecosystem Restoration (2021--2030) provide the greatest possible benefits for climate change mitigation, food and water security and biodiversity." ([Soto-Navarro et al 2020](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0128))..
 
 ***Potential future impacts/results:***
 
@@ -52,3 +126,105 @@ It allows the identification of
 
 -   the highest potential co-benefits for conservation and potential for ecossytem restoration
 :::
+
+::: {.callout-note collapse="true"}
+## Biodiversity loss and climate change (Global safety Net), Ontario
+
+***Where:***
+
+Ontario, Canada
+
+***Description:***
+
+This is the implementation of the "Global safety Net" framework ([Dinerstein et al 2020](https://www.science.org/doi/full/10.1126/sciadv.abb2824)) to Ontario in Canada ([Finkelstein et al 2023](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0126)).
+
+"The Global Safety Net (GSN) is a framework specifying terrestrial regions across the globe that must be protected to simultaneously prevent carbon losses from land use in support of the UNFCCC Paris Agreement aiming to limit warming to no more than 1.5--2.0 °C and to prevent further catastrophic biodiversity losses" ([Finkelstein et al 2023](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0126)).
+
+[Finkelstein et al (2023)](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0126) showed "that when region-specific data are incorporated, Ontario is even more significant than what is shown in the GSN, especially in terms of carbon stocks in forested and open peatlands. Additionally, the biodiversity metrics used in the GSN only partially capture opportunities for conservation in Ontario, and the officially recognized extent of Indigenous lands vastly underestimates the role of First Nations in conservation. Despite these limitations, our analyses indicate that Ontario plays an outsized role in terms of its potential to impact the trajectories both of biodiversity and climate globally."
+
+***Goals/targets (biodiversity conservation/human well-being):***
+
+Canada has set a target to conserve 30% of land and 30% of oceans by 2030 ([Environment and Climate Change Canada 2021](https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/conserved-areas.html); [CBD 2023](https://www.cbd.int/gbf/targets/)).
+
+***Limitations:***
+
+"..the GSN focuses on terrestrial biodiversity (mammals and plants) and does not capture freshwater nor marine ecosystems which are highly significant in Ontario. Freshwater ecosystems are experiencing high rates of biodiversity loss in many regions, yet they have more rarely been integrated into conservation planning ([Southee et al. 2021](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0126#core-ref47))." ([Finkelstein et al 2023](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0126)).
+
+***Strengths:***
+
+It inclides regional data sets
+
+"...our analysis underscores the potential to meet stated goals of reconciliation and conservation through facilitation of existing and new proposals for Indigenous Protected and Conserved Areas (IPCAs), which support formal protection of lands long stewarded by Indigenous people in northern Ontario (Zurba et al. 2019)." ([Finkelstein et al 2023](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0126)).
+
+***Actions taken or suggested:***
+
+[Dinerstein et al. (2020)](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0126#core-ref9) call for leadership from local jurisdictions and we urge Ontario to enhance protection for lands that are critical to climate stabilization and the protection of biodiversity. ([Finkelstein et al 2023](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0126)).
+
+***Impacts/results (potential and/or measured):***
+
+"The large overlap between lands identified for biodiversity as well as climate stabilization in the GSN highlights important opportunities for protected areas in Ontario, particularly in the Far North." ([Finkelstein et al 2023](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0126)).
+:::
+
+::: {.callout-note collapse="true"}
+# **Regional scalable priorities for national biodiversity and carbon conservation planning, Asia**
+
+***Where:***
+
+Asia
+
+***Description:***
+
+We developed a framework to identify synergies between biodiversity and carbon across the Asian region and proposed a stepwise approach based on scalable priorities at regional, biome, and national levels that can complement potential Convention on Biological Diversity targets of protecting 30% land in the post-2020 global biodiversity framework." ([Zu et al 2021](https://www.science.org/doi/10.1126/sciadv.abe4261)).
+
+***Goals/targets (biodiversity conservation/human well-being):***
+
+Protected areas target 30% by 2030 ([Dinerstein et al 2019](https://www.science.org/doi/full/10.1126/sciadv.aaw2869), [CBD 2023](https://www.cbd.int/gbf/targets/)).
+
+***Limitations:***
+
+Subset ob biodiversity (vertebrates)
+
+***Strengths:***
+
+It presents an approach of scalable priorities (regional, biome and national)
+
+Biodiversity conservation planning is representative of biodiversity across a broader region
+
+It synergizes climate and species conservation goals to maximize effectiveness
+
+***Actions taken or suggested:***
+
+Funding mechanism are needed for implementation
+
+***Impacts/results (potential and/or measured):***
+
+"Our targets show that 30% of Asian land could effectively protect over 70% of all assessed species relative to only 11% now (based on analysis of 8932 terrestrial vertebrates), in addition to 2.3 to 3.6 hundred billion metric tons of carbon." ([Zu et al 2021](https://www.science.org/doi/10.1126/sciadv.abe4261)).
+:::
+
+[Srivathsa et al 2023](https://www.nature.com/articles/s41893-023-01063-2)
+
+[McGowan et al 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7040008/)
+
+[Saunders et al 2023](https://www.researchgate.net/publication/367048911_Integrating_climate-change_refugia_into_30_by_30_conservation_planning_in_North_America)
+
+[Chaplin-Kramer et al 2022](https://www.nature.com/articles/s41559-022-01934-5)
+
+[Schuster et al 2023](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.14048)
+
+[O'Brien et al 2023](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9725)
+
+[Eckert et al 2022](https://www.biorxiv.org/content/10.1101/2022.12.16.520787v1.full)
+
+[Ondei et al 2019](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2859)
+
+[Bateman et al 2023](https://www.researchgate.net/publication/369561778_Where_who_and_what_counts_under_area-based_conservation_targets_A_framework_for_identifying_opportunities_that_benefit_biodiversity_climate_mitigation_and_human_communities)
+
+[Dreis 2022](https://iopscience.iop.org/article/10.1088/1748-9326/ac4f8c)
+
+[Waldron](https://www.conservation.cam.ac.uk/files/waldron_report_30_by_30_publish.pdf)
+
+[Brooks et al 2006](https://www.researchgate.net/publication/6958884_Global_Biodiversity_Conservation_Priorities)
+
+[Jung et al 2021](https://www.researchgate.net/publication/354093617_Areas_of_global_importance_for_conserving_terrestrial_biodiversity_carbon_and_water) explore data [here](https://uploads.users.earthengine.app/view/conservationimportance) and [here](https://iiasa.ac.at/models-tools-data/areas-of-global-conservation-importance-for-biodiversity-carbon-and-water)
+
+[Robinne et al 2020](https://www.frontiersin.org/articles/10.3389/fevo.2020.584291/full)

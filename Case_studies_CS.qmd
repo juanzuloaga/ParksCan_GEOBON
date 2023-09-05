@@ -24,6 +24,8 @@ Prairie and Boreal Plains Ecozones, Canada
 
 This case study illustrates two examples of a stratify and multiply approach, where land use and land cover (LULC) maps are multiplied by reference carbon stock values associated with each LULC type. In the Prairie example, reference carbon stocks were obtained using the Intergovernmental Panel on Climate Change (IPCC) default stock values for wetland soils along with stock change factors for land use (*e.g.*, cultivated, hydrologically restored) to estimate wetland soil organic carbon ([Ducks Unlimited Canada 2015](https://eralberta.ca/wp-content/uploads/2017/05/ducks-unlimited-final-report.pdf)). For the Boreal Plains example, first the study region was classified into 19 different wetland classes using Landsat data. Then the average value of carbon was calculated for each wetland class using data from the Zoltai Database and Canada's National Forest Inventory. Lastly, carbon storage maps were obtained by applying the average value of carbon within each wetland class to the area assigned as that wetland class (Ducks Unlimited Canada 2015).
 
+***Goals/targets (biodiversity conservation/human well-being):***
+
 ***Limitations:***
 
 These types of methods do not account for spatial variability of carbon within land cover classes. It is difficult to account for differences in carbon due to other factors, such as local hydrological factors, salinity, climate, and site history. Moreover, the Prairie example used default IPCC values; however, using locally derived reference carbon stock values and stock change factors would improve accuracy and lower uncertainty.
@@ -32,7 +34,7 @@ These types of methods do not account for spatial variability of carbon within l
 
 It is relatively easy to acquire the necessary data and there are low financial costs.
 
-***Actions:***
+***Actions taken or suggested:***
 
 The project updated Alberta's Wetland Restoration Offset Protocol to align with IPCC guidelines.
 
@@ -52,6 +54,8 @@ Canada
 
 Remote Sensing approaches are often used to link field estimates of carbon with remotely sensed imagery, using a machine learning or statistical model. [Sothe et al. (2021)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GB007213) used a machine learning approach to estimate carbon stocks in plants and soils across all terrestrial ecosystems in Canada. Field measurements of soil carbon were obtained from the World Soil Information Service and the Lehigh University Peatlands Database. Field estimates of aboveground biomass were obtained from provincial databases and Canada's National Forest Inventory. A random forest algorithm was used to link the field data to covariates available at a regional level (e.g., Landsat-8, MODIS, Sentinel-2, elevation, topography, Synthetic Aperture Radar, soil type, climate). Postprocessing steps included limiting the depth of soil organic carbon estimates to the maximum rooting depth and reducing soil organic carbon in areas with high ground ice abundance ([Sothe et al. 2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GB007213)).
 
+***Goals/targets (biodiversity conservation/human well-being):***
+
 ***Limitations:***
 
 These carbon storage maps ([WWF, 2022](https://wwf.ca/carbonmap/)) take significant time and funding to develop, and thus are not often updated each year; therefore, rarely is this type of method used to assess changes in carbon over time. Moreover, these carbon storage maps are only as good as the data that goes into them; therefore, it is imperative to use local site-specific field measurements of carbon for calibration and validation. Lastly, the model was developed using data at a national scale to estimate carbon across Canada; however, the same approach could be applied using data restricted to a smaller study region (e.g., Hudson Bay), which may lower uncertainty and improve accuracy. By restricting the analysis to a smaller study region, covariates that best explain the region's dominant environmental gradients could be included, which would likely improve the accuracy.
@@ -60,7 +64,7 @@ These carbon storage maps ([WWF, 2022](https://wwf.ca/carbonmap/)) take signific
 
 Unlike the Stratify and Multiply approach, this approach can account for the spatial heterogeneity of carbon within land cover classes, and in areas of mixed ecosystems, transitioning ecosystems, or novel ecosystems.
 
-***Actions:***
+***Actions taken or suggested:***
 
 1.  [WWF Canada used these carbon maps to advocate for conservation action](https://wwf.ca/media-releases/new-analysis-using-canadas-carbon-map-shows-how-wildlife-conservation-also-benefits-climate/) within the [Wolastoq/Saint John River watershed in New Brunswick](https://wwf.ca/wp-content/uploads/2021/12/Advancing-Priority-Threat-Management-in-the-WolastoqSaint-John-River-Watershed-Executive-Summary.pdf).
 2.  [Collaborations with the Mushkegowuk council, WWF-Canada, and McMaster University](https://wwf.ca/stories/mushkegowuk-council-carbon-peatlands-climate-change-ring-of-fire/) will collect field data to validate these maps. The field data will hopefully support the creation of Indigenous-led conservation areas and influence decisions surrounding cumulative impact assessments prior to development in the Ring of Fire.
@@ -81,6 +85,8 @@ Canada
 
 The Canadian model for peatlands (CaMP) is a peatland carbon model, capable of tracking key carbon pools (e.g., trees & shrubs, sedges, mosses, litter, peat (acrotelm, catotelm)) and flows between them (e.g., growth, mortality, decomposition) for peatland ecosystems. It currently only includes wildfire as a disturbance; however, updates are planned to include other disturbances such as permafrost thaw and anthropogenic disturbances ([Bona et al. 2020](https://www.sciencedirect.com/science/article/pii/S0304380020302350?via%3Dihub)).
 
+***Goals/targets (biodiversity conservation/human well-being):***
+
 ***Limitations:***
 
 These models typically require extensive user expertise to run and parameterize.
@@ -88,6 +94,8 @@ These models typically require extensive user expertise to run and parameterize.
 ***Strengths:***
 
 These models provide accurate assessments of changes in carbon stocks and flows over time. Also, CaMP models peatland hydrology and methane emissions. Currently, CaMP accounts for wildfire disturbances, with plans to account for other disturbances such as permafrost thaw in future versions.
+
+***Actions taken or suggested:***
 
 ***Impacts/results (potential and/or measured):***
 
@@ -113,6 +121,8 @@ Australia
 
 "Experts identified 15 interventions used to conserve Australian peatlands, most of which enhanced or restored peatland condition and effectively addressed diverse threats." ([Rowland et al. 2023](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.14081?campaign=wolacceptedarticle)).
 
+***Goals/targets (biodiversity conservation/human well-being):***
+
 ***Limitations:***
 
 It relies only in experts' opinion.
@@ -126,6 +136,8 @@ Three main broad interventions were identified:
 -   Restore peatlands (e.g., animal reintroductions, revegetation)
 
 -   Policy and regulation (activity regulation, biosecurity, emergency response protocols for preventive actions, feral introduced herbivore control, listing, removing domestic grazing, and not recommended as planned ecological burns, etc).
+
+***Actions taken or suggested:***
 
 ***Impacts/results (potential and/or measured):***
 
