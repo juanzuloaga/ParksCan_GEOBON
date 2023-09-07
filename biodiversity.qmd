@@ -11,7 +11,13 @@ editor: visual
 
 **In progress...........**
 
-# Genetic composition
+## Facts
+
+## Threats and drivers
+
+## Case studies
+
+### Genetic composition
 
 ::: {.callout-note collapse="true"}
 ## Monitoring status and trends in genetic diversity for the Convention on Biological Diversity: An ongoing assessment of genetic indicators in nine countries
@@ -33,6 +39,20 @@ editor: visual
 ***Impacts/results (potential and/or measured):***
 :::
 
-# Species/communities
+### Species/communities
 
-# Ecosystems
+[Goolmeer & van Leeuwen 2023](https://www.sciencedirect.com/science/article/pii/S0169534723000782) (Indigenous knowledge saving iconic species in Australia)
+
+[Lamb et al 2022](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2581) Indigenous-led conservation, Caribou recovery
+
+### Ecosystems
+
+[Bryndum et al 2022](A climate-resilient marine conservation network for Canada) A climate-resilient marine conservation network for Canada
+
+### Climate and biodiversity
+
+[Pörtner et al 2023](https://www.science.org/doi/abs/10.1126/science.abl4881)
+
+### Biodiversity and ecosystem services
+
+[Heuertz et al 2022](https://www.sciencedirect.com/science/article/pii/S0006320722004360)

@@ -9,9 +9,7 @@ toc: true
 editor: visual
 ---
 
-# Introduction
-
-We discuss three general approaches for quantifying carbon storage for ecosystem services assessments and show how these three approaches could be adapted to account for peatland carbon dynamics in the Hudson Bay Lowlands. A comparison of the strengths, limitations, and best practices of each approach can be found in Table 1 which was reprinted from Schwantes et al. (in review). All three approaches rely on local site-specific field surveys for calibration and validation.
+Here we present three general approaches for quantifying carbon storage for ecosystem services assessments and show how these three approaches could be adapted to account for peatland carbon dynamics in the Hudson Bay Lowlands. A comparison of the strengths, limitations, and best practices of each approach can be found in Table 1 which was reprinted from Schwantes et al. (in review). All three approaches rely on local site-specific field surveys for calibration and validation.
 
 ::: panel-tabset
 ## Stratify and Multiply

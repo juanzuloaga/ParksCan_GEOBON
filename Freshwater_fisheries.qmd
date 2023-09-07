@@ -26,6 +26,52 @@ Globally, a key source of food providing high quality protein and supporting hea
 **in progress....**
 
 ::: {.callout-note collapse="true"}
+## Fishers' Indigenous and local knowledge (ILK) has multidimensional contributions, worldwide
+
+***Where:***
+
+Wordlwide
+
+***Description:***
+
+Evaluate the contribution of fisher's indigenous and local knowledge.
+
+156 cases based on 179 published studies on fishers' knowledge of aquatic ecosystems worldwide (between 1974 an 2022), including several organisms (fish, turtles, etc) and multiple research topics (e.g., population biology, invasive species, modeling, etc). ([Silvano et al 2023](https://www.sciencedirect.com/science/article/pii/S0169534722002518)).
+
+***Goals/targets (biodiversity conservation/human well-being):***
+
+[United Nations Sustainable Development Goals](https://sdgs.un.org/goals)
+
+***Limitations:***
+
+***Strengths:***
+
+Fishers' Indigenous and local knowledge can **broaden the available biodiversity/environmental indicators from conventional science** to evaluate changes, Some of the examples they include are:
+
+-   shifts in behavior
+
+-   fish condition ('skinny fish')
+
+-   weather patterns
+
+-   water color
+
+-   presence of associated species
+
+-   sea-water salinity
+
+***Actions taken or suggested:***
+
+Integrate fisher's indigenous and local knowledge into formalized management and conservation programs
+
+Overcome intellectual inertia and structural features of research funding, bureaucracies and management institutions.
+
+Operationalize the interface between conventional science and ILK by participatory monitoring, citizen science, community science and knowledge co-production.
+
+Address limitations in conventional knowledge and ILK
+:::
+
+::: {.callout-note collapse="true"}
 ## The Māori, the indigenous people of New Zealand
 
 ***Where:***
@@ -54,3 +100,5 @@ Traditional food practices were replaced following colonization as access to tra
 :::
 
 [Piczak et al 2023](https://cdnsciencepub.com/doi/full/10.1139/er-2023-0034)
+
+[Silvano et al 2023](https://www.sciencedirect.com/science/article/pii/S0169534722002518)

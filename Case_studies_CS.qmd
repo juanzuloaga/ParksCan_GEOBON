@@ -9,6 +9,8 @@ editor: visual
 toc: true
 ---
 
+# Carbon storage: Case studies
+
 **In progress...**
 
 ## Measuring and modelling
@@ -108,7 +110,7 @@ CaMP was developed to be used for national greenhouse gas emission and removal r
 ## Case
 :::
 
-## Peatland conservation
+## Peatland conservation/ use
 
 ::: {.callout-note collapse="true"}
 ## Experts insignt into peatland conservation and management practices
@@ -143,3 +145,5 @@ Three main broad interventions were identified:
 
 It can facilitate evidence-based management.
 :::
+
+[Charity et al 2023](https://www.mdpi.com/2077-0472/13/2/459)

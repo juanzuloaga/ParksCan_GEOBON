@@ -35,6 +35,7 @@ website:
       title: "General_framework"
       contents:
         - General_framework.qmd
+        - Weaving_knowledge_systems.qmd
         - GEOBON_Framework.qmd
       
         

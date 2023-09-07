@@ -9,11 +9,15 @@ toc: true
 editor: visual
 ---
 
+**In progress..**
+
 A general and operational framework for the HJBL initiative should weave multiple knowledge systems, aims and strategies. It will also facilitate the application of tools, approaches, and models to protect biodiversity, manage carbon storage-services and enhance traditional food security, among others.
 
 There are multiple frameworks in the intersection of biodiversity conservation and community well-being and development that can inform decision-making and policy. For instance, [Mace (2014)](https://mahb.stanford.edu/wp-content/uploads/2014/10/Mace-2014-Science.pdf) described four overarching frameworks (philosophies) that have been playing an active role in biodiversity conservation. Others frameworks are aimed to tackle specific issues/features of biodiversity conservation and/or human well-being. For instance,
 
--   [GEO BON](https://geobon.org/) offers a framework for monitoring biodiversity, detect change and inform decision-making and policy;
+**In progress...**
+
+-   [GEO BON](https://geobon.org/) offers a framework for monitoring biodiversity and ecosystem services, detect change and inform decision-making and policy.
 
 -   For ecosystem services we have not only the [GEO BON recently proposed Essential Ecosystem Services Variables (EESV)](https://geobon.org/ebvs/ecosystem-services/) but the [System of Environmental Economic Accounting (SEEA)](https://seea.un.org/ecosystem-accounting), and the [European Union's Mapping and Assessment of Ecosystems and their Services (MAES)](https://www.sciencedirect.com/science/article/pii/S2212041615300504)
 
@@ -29,7 +33,9 @@ There are multiple frameworks in the intersection of biodiversity conservation a
 
 -   Other frameworks offer room to incorporate and evaluate some aspects of these ecosystems, for example: [The United Nations Framework Convention on Climate Change](https://unfccc.int/resource/docs/convkp/conveng.pdf) and Fire Monitoring Initiatives (e.g.,[FireMARS Canada](https://natural-resources.canada.ca/our-natural-resources/forests/wildland-fires-insects-disturbances/fire-monitoring-reporting-tool/13159)). However, spatially explicit assessment and impact evaluation is not fully supported and integrated by these frameworks.
 
--   there are also local and regional frameworks for traditional food sovereignty and security have been proposed and implemented,
+-   There are also local and regional frameworks for traditional food sovereignty and security have been proposed and implemented (e.g., [CFS](https://www.fao.org/fileadmin/templates/cfs/Docs1314/GSF/GSF_Version_3_EN.pdf),[Clapp et al 2022](https://www.sciencedirect.com/science/article/pii/S0306919221001445), )
+
+-   Scenarios (e,g, land us and climate change, [Kim et al 2018](https://gmd.copernicus.org/articles/11/4537/2018/gmd-11-4537-2018.html))
 
 Let's describe the overarching frameworks and then present specific frameworks as they might fit in partners' expectations and needs.
 

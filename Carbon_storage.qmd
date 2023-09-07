@@ -13,13 +13,19 @@ toc: true
 
 ## Facts
 
+**Global**
+
 "...Peatlands, also called"organic soils", "bogs", "fens", "swamps" and "mires", are the world's most carbon-dense terrestrial ecosystems. Peatlands are formed from partially decomposed plant remains that have accumulated over thousands of years under conditions of waterlogging. Peat soils hold an estimated 650 billion tonnes (Gt = Pg) of carbon on only 3 percent of the Earth's land surface -- a carbon store that is equal in magnitude to the amount of carbon in the Earth's vegetation, and more than half of the carbon in the atmosphere (Yu et al., 2010; Page et al., 2011; Dargie et al., 2017)...." [FAO-UN (2020)](https://www.fao.org/3/CA8200EN/CA8200EN.pdf).
 
-"One-quarter of the world's northern peatlands (\~1.1 million km2; Figure [**1**](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437#fee2437-fig-0001)), and the world's largest peatland C stock (\~150 Gt), is located in Canada ([Joosten 2009](https://unfccc.int/sites/default/files/draftpeatlandco2report.pdf); [Xu et al. 2018](https://www.sciencedirect.com/science/article/abs/pii/S0341816217303004?via%3Dihub); [Hugelius et al. 2020](https://www.pnas.org/doi/full/10.1073/pnas.1916387117))." ([Harris et al 2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437)
+**Canada**
 
-The Hudson James Bay Lowlands (HJBL) is the second largest peatland in the world, which extends over \~370,000 km2 ([Harris et al 2021](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437); [Packalen et al 2014](https://www.nature.com/articles/ncomms5078)).
+"One-quarter of the world's northern peatlands (\~1.1 million km2; Figure [**1**](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437#fee2437-fig-0001)), and the world's largest peatland C stock (\~150 Gt), is located in Canada ([Joosten 2009](https://unfccc.int/sites/default/files/draftpeatlandco2report.pdf); [Xu et al. 2018](https://www.sciencedirect.com/science/article/abs/pii/S0341816217303004?via%3Dihub); [Hugelius et al. 2020](https://www.pnas.org/doi/full/10.1073/pnas.1916387117))." ([Harris et al 2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437).
 
 "...only \~10% of peatlands in Canada are currently within protected areas." ([Harris et al 2021)](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437)
+
+**The Hudson James Bay Lowlands (HJBL)**
+
+The Hudson James Bay Lowlands (HJBL) is the second largest peatland in the world, which extends over \~370,000 km2 ([Harris et al 2021](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2437); [Packalen et al 2014](https://www.nature.com/articles/ncomms5078)).
 
 ## Type of services
 
@@ -51,7 +57,7 @@ The Hudson James Bay Lowlands (HJBL) is the second largest peatland in the world
 
 -   Land-use change
 
-    -   Agricultural conversion
+    -   Agricultural conversion (e.g., [Meng et al 2023](https://www.nature.com/articles/s41893-023-01093-w))
 
     -   Mineral extraction (e.g., [mining conflicts with first nations](https://intercontinentalcry.org/report-details-free-entry-mining-conflicts-with-first-nations/) and [this](https://www.pewtrusts.org/-/media/legacy/uploadedfiles/peg/publications/report/mining20exploration20conflicts20in20borealpdf.pdf); [Canada's critical minerals strategy](https://www.canada.ca/en/campaign/critical-minerals-in-canada/canada-critical-minerals-strategy-discussion-paper.html#a64))
 
